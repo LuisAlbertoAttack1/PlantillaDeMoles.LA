@@ -33,6 +33,9 @@
                     <li class="nav-item  mt-1 mb-1">
                         <a class="btn btn-moles btn-block" href="#LocalizacionDeEmpresa"><i class="fa-solid fa-map-location-dot"></i> Localización De Empresa</a>
                     </li>
+                    <li class="nav-item  mt-1 mb-1">
+                        <a class="btn btn-moles btn-block" href="#SeccionIniciar">   <i class="fas fa-user"></i> Iniciar Sesion</a>
+                    </li>
                 </div>
             </ul>
         </div>
@@ -134,10 +137,10 @@
         <div class="item mt-4 mb-4">
             <a href="#SeccionIniciar" title="Iniciar Seccion">
                 <div class="ico text-center">
-                <i class="fa-solid fa-map-location-dot"></i>
+                <i class="fas fa-user"></i>
                 </div>
                 <div class="title">
-                    <span>Iniciar Seccion</span>
+                    <span>Iniciar Sesion</span>
                 </div>
             </a>
         </div>

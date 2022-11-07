@@ -93,7 +93,8 @@
                                                                         <h6>Te Mostraremos Una Gran Variedad De
                                                                                 Productos</h6>
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
-                                                                                <a href="./views/Views-vistaMoles.php" class="btn fondo-color-indefinido-center"
+                                                                                <a href="./views/Views-vistaMoles.php"
+                                                                                        class="btn fondo-color-indefinido-center"
                                                                                         type="button">Ingresar</a>
                                                                         </div>
                                                                 </div>
@@ -113,7 +114,8 @@
                                                                         <h6>Te Mostraremos Una Gran Variedad De
                                                                                 Productos</h6>
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
-                                                                                <a href="./views/Views-vistaBotanas.php" class="btn fondo-color-indefinido-center"
+                                                                                <a href="./views/Views-vistaBotanas.php"
+                                                                                        class="btn fondo-color-indefinido-center"
                                                                                         type="button">Ingresar</a>
                                                                         </div>
 
@@ -258,7 +260,8 @@
                                                                         <h3 class="mt-2">Platillos De Mole</h3>
                                                                         <br>
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
-                                                                                <a href="./views/Views-vistasRecetas.php" class="btn mt-2 mb-2 fondo-color-indefinido-center"
+                                                                                <a href="./views/Views-vistasRecetas.php"
+                                                                                        class="btn mt-2 mb-2 fondo-color-indefinido-center"
                                                                                         type="button">Opciones De
                                                                                         Más Recetas </a>
                                                                         </div>
@@ -501,8 +504,9 @@
                                                                         </div>
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
                                                                                 <button class="btn mt-2 mb-2 fondo-color-indefinido-center"
-                                                                                        type="button">Ingresar Informacion
-                                                                                       </button>
+                                                                                        type="button">Ingresar
+                                                                                        Informacion
+                                                                                </button>
                                                                         </div>
                                                                 </div>
 
@@ -529,7 +533,8 @@
                                                                                 totam quod commodi ut rem eveniet, illum
                                                                                 quo nemo ad, placeat ipsum quisquam
                                                                                 iste.</h5>
-                                                                        <a href="#" class="btn btn-primary mt-4 -b-4">Ingresar
+                                                                        <a href="#"
+                                                                                class="btn btn-primary mt-4 -b-4">Ingresar
                                                                                 A Mas Informacion</a>
                                                                 </div>
                                                         </div>
@@ -538,9 +543,16 @@
                                                         <div class="card border-0">
                                                                 <div class="card-body">
                                                                         <div class="text-center">
-                                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15070.003100773483!2d-99.00076843332705!3d19.21699515426017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1b3d499e89a7%3A0x10d5bd39bc57a44e!2sSan%20Antonio%20Tec%C3%B3mitl%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1665897351747!5m2!1ses-419!2smx" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                                                <br>
-                                                                <h5 class="text-center">LUGAR DONDE PUEDEN VISITAR LA EMPRESA DE MOLES TRADICIONALES RIOS</h5>
+                                                                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15070.003100773483!2d-99.00076843332705!3d19.21699515426017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1b3d499e89a7%3A0x10d5bd39bc57a44e!2sSan%20Antonio%20Tec%C3%B3mitl%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1665897351747!5m2!1ses-419!2smx"
+                                                                                        width="500" height="400"
+                                                                                        style="border:0;"
+                                                                                        allowfullscreen=""
+                                                                                        loading="lazy"
+                                                                                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                                                                <br>
+                                                                                <h5 class="text-center">LUGAR DONDE
+                                                                                        PUEDEN VISITAR LA EMPRESA DE
+                                                                                        MOLES TRADICIONALES RIOS</h5>
                                                                         </div>
                                                                 </div>
                                                         </div>
@@ -549,8 +561,110 @@
                                         <br><br>
                                 </div>
                                 <!-- ///////////////// -->
+                                <div class="" id="SeccionIniciar">
+                                        <br><br><br>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Ya FUNCIONO </h1>
+
+                                        <div class="card shadow p-3 mb-5 bg-body rounded border-0">
+                                                <div class="card-body">
+                                                        <div class="row">
+                                                                <div class="col-sm-6">
+                                                                        <div class="card border-0">
+                                                                                <div class="card-body">
+                                                                                        <img src="./img/LogoDeEmpresa.png"
+                                                                                                alt="" srcset="">
+                                                                                </div>
+                                                                        </div>
+                                                                </div>
+                                                                <div class="col-sm-6">
+                                                                        <div class="card border-0">
+                                                                                <div class="card-body">
+                                                                                        <div class="text-center">
+                                                                                                <img src="./img/LogoDeEmpresa.png"
+                                                                                                        class="TamañoLogoLoginUno mt-2 mb-2"
+                                                                                                        alt=""
+                                                                                                        srcset="">
+                                                                                        </div>
+                                                                                        <h2
+                                                                                                class="text-center tipo-letra">
+                                                                                                Moles Tradicionales Rios
+                                                                                        </h2>
+                                                                                </div>
+                                                                                <h5 class="tipo-letra"><img
+                                                                                                src="./img/imgIcono.svg"
+                                                                                                alt="" srcset="">
+                                                                                        Usuario</h5>
+
+                                                                                <div class="form-floating
+                                                                                mb-3">
+                                                                                        <input type="text"
+                                                                                                class="form-control"
+                                                                                                id="floatingInput"
+                                                                                                placeholder="Usuario">
+                                                                                        <label for="floatingInput"
+                                                                                                class="tipo-letra">Usuario</label>
+                                                                                </div>
+                                                                                <h5 class="tipo-letra"> <img
+                                                                                                src="./img/imgIconoPass.svg"
+                                                                                                alt="" srcset="">
+                                                                                        Contraseña</h5>
+                                                                                <div class="form-floating">
+                                                                                        <input type="password"
+                                                                                                class="form-control"
+                                                                                                id="floatingPassword"
+                                                                                                placeholder="Contraseña">
+                                                                                        <label for="floatingPassword"
+                                                                                                class="tipo-letra">Contraseña</label>
+                                                                                </div>
+
+                                                                                <div <div class="row">
+                                                                                        <div class="col-sm-6">
+                                                                                                <div
+                                                                                                        class="card text-center border-0">
+                                                                                                        <div
+                                                                                                                class="card-body">
+                                                                                                                <div
+                                                                                                                        class="d-grid gap-2 d-md-block">
+                                                                                                                        <a href="#" class="btn btn-primary"
+                                                                                                                                type="button">Iniciar Sesion</a>
+
+                                                                                                                </div>
+                                                                                                        </div>
+                                                                                                </div>
+                                                                                        </div>
+                                                                                        <div class="col-sm-6">
+                                                                                                <div
+                                                                                                        class="card text-center border-0">
+                                                                                                        <div
+                                                                                                                class="card-body">
+                                                                                                                <div
+                                                                                                                        class="d-grid gap-2 d-md-block">
+                                                                                                                        <a href="./views/Views-vistaAñadirUsuario.php" class="btn btn-warning"
+                                                                                                                                type="button">Registrarse</a>
+
+                                                                                                                </div>
+                                                                                                        </div>
+                                                                                                </div>
+                                                                                        </div>
+
+                                                                                </div>
+
+
+
+
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                </div>
                         </div>
+
+
                 </div>
+                <!-- ///////////////// -->
+        </div>
+        </div>
         </div>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
