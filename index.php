@@ -1,0 +1,562 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+                integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+                crossorigin="anonymous">
+        <link rel="stylesheet" href="css/all.css">
+        <link rel="stylesheet" href="css/sidebar.css">
+        <script src="js/jquery.js"></script>
+        <script src="js/all.js"></script>
+        <title>Principal</title>
+</head>
+
+<body>
+        <?php require_once 'views/sidebar.php'; ?>
+        <div class="container">
+                <div class="row">
+                        <div class="col-md-12">
+                                <div class="" id="Inicio">
+                                        <br>
+                                        <h1 class="text-center mt-4 mb-4 tipo-Letra-Titulo">El Mole Es Uno De Los
+                                                Platillos
+                                                Mas Emblematicos De Mexico</h1>
+                                        <div id="carouselExampleControls" class="carousel slide"
+                                                data-bs-ride="carousel">
+                                                <div class="carousel-inner">
+                                                        <div class="carousel-item active">
+                                                                <img src="./img/imgportada2.jpg" class="d-block w-100"
+                                                                        alt="...">
+                                                        </div>
+                                                        <div class="carousel-item">
+                                                                <img src="./img/imgportada1.jpg" class="d-block w-100"
+                                                                        alt="...">
+                                                        </div>
+                                                        <div class="carousel-item">
+                                                                <img src="./img/imgportada3.jpg" class="d-block w-100"
+                                                                        alt="...">
+                                                        </div>
+                                                </div>
+                                                <button class="carousel-control-prev" type="button"
+                                                        data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                                        <span class="carousel-control-prev-icon"
+                                                                aria-hidden="true"></span>
+                                                        <span class="visually-hidden">Previous</span>
+                                                </button>
+                                                <button class="carousel-control-next" type="button"
+                                                        data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                                        <span class="carousel-control-next-icon"
+                                                                aria-hidden="true"></span>
+                                                        <span class="visually-hidden">Next</span>
+                                                </button>
+                                        </div>
+
+                                        <h5 class="tipo-letra mt-4 ms-5 me-5 text-center ">La palabra mole proviene del
+                                                vocablo náhuatl
+                                                “molli o mulli” que significa “salsa”; su proceso culinario inicia en la
+                                                época prehispánica donde se encuentra una amplia variedad de alimentos
+                                                elaborados con diferentes tipos de salsas que tienen como ingrediente
+                                                principal la mezcla de chiles, pero se perfeccionó en la época Colonial.
+                                        </h5>
+                                        <h5 class="tipo-letra mt-4 ms-5 me-5 ">La palabra mole proviene del vocablo
+                                                náhuatl
+                                                “molli o mulli” que significa “salsa”; su proceso culinario inicia en la
+                                                época prehispánica donde se encuentra una amplia variedad de alimentos
+                                                elaborados con diferentes tipos de salsas que tienen como ingrediente
+                                                principal la mezcla de chiles, pero se perfeccionó en la época Colonial.
+                                        </h5>
+
+                                        <br>
+                                </div>
+                                <!-- ///////////////// -->
+                                <div class="" id="ProductosCategorias">
+                                        <br><br>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Productos Que Puedes Adquirir
+                                        </h1>
+                                        <h3></h3>
+                                        <!----------------------->
+                                        <div class="row row-cols-1 row-cols-md-2 g-4 mt-2 mb-2">
+                                                <div class="col-sm-6">
+                                                        <div class="card shadow p-3 mb-5 bg-body rounded border-0">
+                                                                <div class="card-img text-center">
+                                                                        <img src="./img/IMG3.png"
+                                                                                class="img-fluid tamaño-img-primero mt-4 mb-4 mx-auto d-block"
+                                                                                alt="No Encuentro Tu Img">
+                                                                </div>
+                                                                <div class="card-body text-center tipo-letra">
+                                                                        <h3>Seccion De Productos De Moles</h3>
+                                                                        <h6>Te Mostraremos Una Gran Variedad De
+                                                                                Productos</h6>
+                                                                        <div class="d-grid gap-2 col-6 mx-auto">
+                                                                                <a href="./views/Views-vistaMoles.php" class="btn fondo-color-indefinido-center"
+                                                                                        type="button">Ingresar</a>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                        <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                                <div class="card-img ">
+                                                                        <div class="card-img text-center">
+                                                                                <img src="./img/img5.png"
+                                                                                        class="img-fluid tamaño-img-primero mt-4 mb-4 mx-auto d-block"
+                                                                                        alt="No Encuentro Tu Img">
+                                                                        </div>
+                                                                </div>
+                                                                <div class="card-body text-center tipo-letra">
+                                                                        <h3>Seccion De Productos De Botanas</h3>
+                                                                        <h6>Te Mostraremos Una Gran Variedad De
+                                                                                Productos</h6>
+                                                                        <div class="d-grid gap-2 col-6 mx-auto">
+                                                                                <a href="./views/Views-vistaBotanas.php" class="btn fondo-color-indefinido-center"
+                                                                                        type="button">Ingresar</a>
+                                                                        </div>
+
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <!---------------------->
+                                        <br><br>
+                                </div>
+                                <!-- ///////////////// -->
+                                <div class="" id="Recetas">
+
+                                        <br><br>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Platillos Que Puedes Realizar Con
+                                                Los Productos Que Nos Compran
+                                        </h1>
+                                        <div class="row row-cols-1 row-cols-md-3 g-6 mt-4 mb-4">
+                                                <div class="col">
+                                                        <div class="card shadow p-3 mb-5 bg-body rounded border-0">
+                                                                <div class="card-img fondo-color-indefinido">
+                                                                        <img src="./img/img1.png"
+                                                                                class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block"
+                                                                                alt="No Encuentro Tu Img">
+
+                                                                </div>
+                                                                <div class="card-body text-center tipo-letra">
+                                                                        <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                        <h3>Platillos De Moles</h3>
+                                                                        <h6>El mole es uno de los platillos más
+                                                                                tradicionales de la gastronomía
+                                                                                mexicana.</h6>
+                                                                        <div class="d-grid gap-2 col-6 mx-auto">
+                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center"
+                                                                                        type="button">Ver
+                                                                                        Receta</button>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col">
+                                                        <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                                <div class="card-img fondo-color-indefinido-center">
+
+                                                                        <img src="./img/img2.png"
+                                                                                class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block"
+                                                                                alt="No Encuentro Tu Img">
+
+                                                                </div>
+                                                                <div class="card-body text-center tipo-letra">
+                                                                        <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                        <h3>Platillos De Moles</h3>
+                                                                        <h6>El mole es uno de los platillos más
+                                                                                tradicionales de la gastronomía
+                                                                                mexicana.</h6>
+                                                                        <div class="d-grid gap-2 col-6 mx-auto">
+                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center"
+                                                                                        type="button">Ver
+                                                                                        Receta</button>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col">
+                                                        <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                                <div class="card-img fondo-color-indefinido">
+                                                                        <img src="./img/img1.png"
+                                                                                class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block"
+                                                                                alt="No Encuentro Tu Img">
+                                                                </div>
+                                                                <div class="card-body text-center tipo-letra">
+                                                                        <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                        <h3>Platillos De Moles</h3>
+                                                                        <h6>El mole es uno de los platillos más
+                                                                                tradicionales de la gastronomía
+                                                                                mexicana.</h6>
+                                                                        <div class="d-grid gap-2 col-6 mx-auto">
+                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center"
+                                                                                        type="button">Ver
+                                                                                        Receta</button>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <!--SEPARACION--->
+                                        <div class="row row-cols-1 row-cols-md-3 g-6 mt-4 mb-4">
+                                                <div class="col">
+                                                        <div class="card shadow p-3 mb-5 bg-body rounded border-0">
+                                                                <div class="card-img fondo-color-indefinido">
+                                                                        <img src="./img/img1.png"
+                                                                                class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block"
+                                                                                alt="No Encuentro Tu Img">
+
+                                                                </div>
+                                                                <div class="card-body text-center tipo-letra">
+                                                                        <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                        <h3>Platillos De Moles</h3>
+                                                                        <h6>El mole es uno de los platillos más
+                                                                                tradicionales de la gastronomía
+                                                                                mexicana.</h6>
+                                                                        <div class="d-grid gap-2 col-6 mx-auto">
+                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center"
+                                                                                        type="button">Ver
+                                                                                        Receta</button>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col">
+                                                        <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                                <div class="card-img fondo-color-indefinido-center">
+
+                                                                        <img src="./img/img2.png"
+                                                                                class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block"
+                                                                                alt="No Encuentro Tu Img">
+
+                                                                </div>
+                                                                <div class="card-body text-center tipo-letra">
+                                                                        <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                        <h3>Platillos De Moles</h3>
+                                                                        <h6>El mole es uno de los platillos más
+                                                                                tradicionales de la gastronomía
+                                                                                mexicana.</h6>
+                                                                        <div class="d-grid gap-2 col-6 mx-auto">
+                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center"
+                                                                                        type="button">Ver
+                                                                                        Receta</button>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col">
+                                                        <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                                <div class="card-img fondo-color-indefinido">
+                                                                        <img src="./img/img6.png"
+                                                                                class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block"
+                                                                                alt="No Encuentro Tu Img">
+                                                                </div>
+                                                                <div class="card-body text-center tipo-letra">
+                                                                        <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                        <h3 class="mt-2">Platillos De Mole</h3>
+                                                                        <br>
+                                                                        <div class="d-grid gap-2 col-6 mx-auto">
+                                                                                <a href="./views/Views-vistasRecetas.php" class="btn mt-2 mb-2 fondo-color-indefinido-center"
+                                                                                        type="button">Opciones De
+                                                                                        Más Recetas </a>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <br><br>
+
+                                </div>
+                                <!-- ///////////////// -->
+                                <div class="" id="InformacionSobreLaEmpresa">
+                                        <br><br><br><br><br>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Historia Sobre La Empresa
+                                        </h1>
+                                        <br>
+                                        <div class="row">
+                                                <div class="col-sm-6">
+                                                        <div class="card border-0">
+                                                                <div class="card-body tipo-letra">
+                                                                        <h3>Nuestro Origen</h3>
+                                                                        <h4 class="mt-3"> El Mole Tradicional
+                                                                                Rios® inicia su historia en la década de
+                                                                                los cincuenta en San Luis Potosí, cuando
+                                                                                la Sra. María Pons Nicoux de Degetau
+                                                                                compartía este exquisito platillo entre
+                                                                                sus familiares y amigos, mismo que
+                                                                                preparaba en su casa de forma artesanal.
+                                                                                Debido a su gran aceptación, decidió
+                                                                                comercializarlo.</h4>
+                                                                        <a href="./views/Views-vistasHistoria.php"
+                                                                                class="btn fondo-color-indefinido-center mt-4 mb-4">Optener
+                                                                                Informacion Completa</a>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                        <div class="card border-0">
+                                                                <div class="card-body border-0">
+                                                                        <div class="text-center">
+                                                                                <img src="./img/img7.jpg"
+                                                                                        class="img-fluid tamaño-de-img-card-mole"
+                                                                                        alt="">
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+
+                                </div>
+                                <!-- ///////////////// -->
+
+                                <div class="" id="RealizarPedidos">
+                                        <br><br><br><br><br><br><br><br>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Realizar Pedidos De Productos
+                                        </h1>
+                                        <h5 class="text-center tipo-letra">Usuario por favor coloque la informacion
+                                                corespondiente para poder realizar su pedido de dicho producto </h5>
+                                        <br>
+                                        <div class="row">
+                                                <div class="col-sm-6">
+                                                        <div class="card border-0">
+                                                                <div class="card-body">
+                                                                        <div class="text-center">
+                                                                                <img src="./img/img8.gif"
+                                                                                        class="img-fluid tamaño-de-img-card-mole"
+                                                                                        alt="">
+                                                                        </div>
+
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                        <div class="card border-0 tipo-letra">
+                                                                <div class="card-body">
+                                                                        <h2 class="text-center mt-3 mb-3"> Informacion
+                                                                                De Pedidos Conforme Al Usuario</h2>
+                                                                        <h5>Nombre De Usuario</h5>
+                                                                        <div class="form-floating mb-3">
+                                                                                <input type="email" class="form-control"
+                                                                                        id="floatingInput"
+                                                                                        placeholder="name@example.com">
+                                                                                <label for="floatingInput">
+                                                                                        Datos De Tu Pedido</label>
+                                                                        </div>
+                                                                        <h5>Forma De Compra Del Producto</h5>
+                                                                        <div class="form-floating">
+                                                                                <select class="form-select"
+                                                                                        id="floatingSelectGrid"
+                                                                                        aria-label="Floating label select example">
+                                                                                        <option selected>Datos De Tu
+                                                                                                Pedido</option>
+                                                                                        <option value="1">Mayoreo
+                                                                                        </option>
+                                                                                        <option value="2">Menudeo
+                                                                                        </option>
+                                                                                </select>
+                                                                                <label for="floatingSelectGrid">Moles
+                                                                                        tradicionales Rios®</label>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+
+                                                </div>
+                                                <!--Informacion Siguiente-->
+                                                <div class="row row-cols-md-2 g-4 tipo-letra">
+                                                        <div class="col">
+                                                                <div class="card border-0">
+                                                                        <div class="card-body">
+                                                                                <h5>Cantidad De Producto 1 kilo, 5
+                                                                                        kilos, Colocar Cantidad, etc.
+                                                                                </h5>
+                                                                                <div class="form-floating mb-3">
+                                                                                        <input type="email"
+                                                                                                class="form-control"
+                                                                                                id="floatingInput"
+                                                                                                placeholder="name@example.com">
+                                                                                        <label for="floatingInput">
+                                                                                                Datos De Tu
+                                                                                                Pedido</label>
+                                                                                </div>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                        <div class="col">
+                                                                <div class="card border-0">
+                                                                        <div class="card-body">
+                                                                                <h5>Codigo Postal</h5>
+                                                                                <div class="form-floating mb-3">
+                                                                                        <input type="email"
+                                                                                                class="form-control"
+                                                                                                id="floatingInput"
+                                                                                                placeholder="name@example.com">
+                                                                                        <label for="floatingInput">
+                                                                                                Datos De Tu
+                                                                                                Pedido</label>
+                                                                                </div>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                        <div class="col">
+                                                                <div class="card border-0">
+                                                                        <div class="card-body">
+                                                                                <h5>Nombre De Tu Mole</h5>
+                                                                                <div class="form-floating mb-3">
+                                                                                        <input type="email"
+                                                                                                class="form-control"
+                                                                                                id="floatingInput"
+                                                                                                placeholder="name@example.com">
+                                                                                        <label for="floatingInput">
+                                                                                                Datos De Tu
+                                                                                                Pedido</label>
+                                                                                </div>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                        <div class="col">
+                                                                <div class="card border-0">
+                                                                        <div class="card-body">
+                                                                                <h5>Referencias De Tu Domicilio</h5>
+                                                                                <div class="form-floating mb-3">
+                                                                                        <input type="email"
+                                                                                                class="form-control"
+                                                                                                id="floatingInput"
+                                                                                                placeholder="name@example.com">
+                                                                                        <label for="floatingInput">
+                                                                                                Datos De Tu
+                                                                                                Pedido</label>
+                                                                                </div>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <div class="card border-0">
+                                                <div class="card-body text-center tipo-letra">
+                                                        <div class="d-grid gap-2">
+                                                                <button class="btn btn-warning mt-2 mb-2"
+                                                                        type="button">Aceptación
+                                                                        De
+                                                                        Pedido</button>
+                                                                <button class="btn btn-danger"
+                                                                        type="button">Cancelar</button>
+                                                        </div>
+                                                </div>
+                                        </div>
+
+                                </div>
+                                <!-- ///////////////// -->
+                                <div class="" id="QuejasDeNuestroServicio">
+                                        <br><br><br>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Quejas Sobre Nuestro Servicio
+                                        </h1>
+                                        <br>
+                                        <div class="row row-cols-1 row-cols-md-2 g-4 tipo-letra">
+                                                <div class="col">
+                                                        <div class="card border-0 color-circulo-verde">
+                                                                <div class="card-body">
+                                                                        <h3>Queja Baja</h3>
+                                                                        <h5 class="mt-4">Falta De Comunicacion Con
+                                                                                Nuestrs Empresa Moles Tradicionales Ríos
+                                                                        </h5>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col">
+                                                        <div class="card border-0 color-circulo-amarillo">
+                                                                <div class="card-body">
+                                                                        <h3>Queja Media</h3>
+                                                                        <h5 class="mt-4">Falta De Comunicacion Con
+                                                                                Nuestrs Empresa Moles Tradicionales Ríos
+                                                                        </h5>
+
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col">
+                                                        <div class="card border-0 color-circulo-rojo">
+                                                                <div class="card-body">
+                                                                        <h3>Queja Alta</h3>
+                                                                        <h5 class="mt-4">Falta De Comunicacion Con
+                                                                                Nuestrs Empresa Moles Tradicionales Ríos
+                                                                        </h5>
+                                                                        <br>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col">
+                                                        <div class="card border-0">
+                                                                <div class="card-body color-circulo-transparente">
+                                                                        <h3>Queja Personal Favor De Ingresar Su
+                                                                                Informacion</h3>
+                                                                        <div class="form-floating mb-3">
+                                                                                <input type="email" class="form-control"
+                                                                                        id="floatingInput"
+                                                                                        placeholder="name@example.com">
+                                                                                <label for="floatingInput">
+                                                                                        Ingresar Datos De Dicha
+                                                                                        Queja</label>
+                                                                        </div>
+                                                                        <div class="d-grid gap-2 col-6 mx-auto">
+                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center"
+                                                                                        type="button">Ingresar Informacion
+                                                                                       </button>
+                                                                        </div>
+                                                                </div>
+
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <br><br>
+                                </div>
+                                <!-- ///////////////// -->
+                                <div class="" id="LocalizacionDeEmpresa">
+                                        <br><br><br>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Ubicacion Actual De La Empresa
+                                        </h1>
+                                        <br>
+                                        <div class="row tipo-letra">
+                                                <div class="col-sm-6 ">
+                                                        <div class="card border-0">
+                                                                <div class="card-body">
+                                                                        <h5 class="card-title">La Empresa Esta Hubicada
+                                                                                en la:</h5>
+                                                                        <h5> Lorem ipsum dolor, sit amet consectetur
+                                                                                adipisicing elit. Inventore quidem hic
+                                                                                tempore nam. Tempore asperiores adipisci
+                                                                                totam quod commodi ut rem eveniet, illum
+                                                                                quo nemo ad, placeat ipsum quisquam
+                                                                                iste.</h5>
+                                                                        <a href="#" class="btn btn-primary mt-4 -b-4">Ingresar
+                                                                                A Mas Informacion</a>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                        <div class="card border-0">
+                                                                <div class="card-body">
+                                                                        <div class="text-center">
+                                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15070.003100773483!2d-99.00076843332705!3d19.21699515426017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1b3d499e89a7%3A0x10d5bd39bc57a44e!2sSan%20Antonio%20Tec%C3%B3mitl%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1665897351747!5m2!1ses-419!2smx" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                                                <br>
+                                                                <h5 class="text-center">LUGAR DONDE PUEDEN VISITAR LA EMPRESA DE MOLES TRADICIONALES RIOS</h5>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <br><br>
+                                </div>
+                                <!-- ///////////////// -->
+                        </div>
+                </div>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+                integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+                crossorigin="anonymous"></script>
+        <script src="js/controller_navbar.js"></script>
+</body>
+
+</html>
