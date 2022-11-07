@@ -131,5 +131,15 @@
                 </div>
             </a>
         </div>
+        <div class="item mt-4 mb-4">
+            <a href="#SeccionIniciar" title="Iniciar Seccion">
+                <div class="ico text-center">
+                <i class="fa-solid fa-map-location-dot"></i>
+                </div>
+                <div class="title">
+                    <span>Iniciar Seccion</span>
+                </div>
+            </a>
+        </div>
     </div>
 </div>
