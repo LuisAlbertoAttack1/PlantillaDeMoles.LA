@@ -13,7 +13,7 @@
         <link rel="stylesheet" href="../css/sidebar.css">
         <link rel="stylesheet" href="../css/all.css">
         <script src="../js/all.js"></script>
-        <title>Views-vistaAñadirUsuario!</title>
+        <title>Registrate</title>
 </head>
 
 <body  class="fondoColorLoginCreacionDeUser">
@@ -77,15 +77,16 @@
                                                                                                         alt=""
                                                                                                         srcset="">
                                                                                                 Nombre
-                                                                                                (Apellidos)</h4>
+                                                                                                Completo</h4>
                                                                                         <div
                                                                                                 class="form-floating
                                                                                                 mb-3">
                                                                                                 <input
-                                                                                                        type="text"
+                                                                                                        type="text"     
                                                                                                         class="form-control"
                                                                                                         id="floatingInput"
-                                                                                                        placeholder="Usuario">
+                                                                                                        placeholder="Usuario" 
+                                                                                                        pattern="[A-za-z]">
                                                                                                 <label
                                                                                                         for="floatingInput"
                                                                                                         class="tipo-letra">Nombre</label>
@@ -116,7 +117,9 @@
                                                                                                         type="text"
                                                                                                         class="form-control"
                                                                                                         id="floatingInput"
-                                                                                                        placeholder="Usuario">
+                                                                                                        placeholder="Usuario"
+                                                                                                        pattern="[A-za-z]">
+                                                                                                        
                                                                                                 <label
                                                                                                         for="floatingInput"
                                                                                                         class="tipo-letra">Nombre
@@ -208,8 +211,8 @@
                                                         <!--------------------------->
                                                            <!----->
                                                            <div class="d-grid gap-2 col-6 mx-auto">
-                                                                <a href="../index.php" class="btn btn-primary mb-2" type="button">Guardar Datos</a>
-                                                                <a href="#" class="btn btn-danger" type="button">Cancelar</a>
+                                                                <a href="#" class="btn btn-primary mb-2" type="button">Guardar Datos</a>
+                                                                <a href="../index.php" class="btn btn-danger" type="button">Cancelar</a>
                                                               </div>
                                                 </div>
                                         </div>
