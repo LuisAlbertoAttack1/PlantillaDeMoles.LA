@@ -563,7 +563,7 @@
                                 <!-- ///////////////// -->
                                 <div class="" id="SeccionIniciar">
                                         <br><br><br>
-                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Ya FUNCIONO </h1>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">REGISTRO </h1>
 
                                         <div class="card shadow p-3 mb-5 bg-body rounded border-0">
                                                 <div class="card-body">

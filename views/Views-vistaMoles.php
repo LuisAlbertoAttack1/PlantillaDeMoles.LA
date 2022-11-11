@@ -13,25 +13,31 @@
         <link rel="stylesheet" href="../css/sidebar.css">
         <link rel="stylesheet" href="../css/all.css">
         <script src="../js/all.js"></script>
-        <title>Views-vistasMoles.php!</title>
+        <title>Views-vistasMoles.php!</title>    
 </head>
-
 <body>
         <div class="container">
                 <div class="row">
                         <div class="col">
-                                <h2 class="text-center">Hola ya estas dentro de la seccion de moles</h2>
+                                <h2 class="text-center">Informacion Sobre Contenido De Moles</h2>
                                 <br>
                                 <div class="row tipo-letra row-cols-1 row-cols-md-3 g-4">
                                         <div class="col">
                                                 <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
+                                                        <img src="../img/img1.png" class="card-img-top" alt="...">
                                                         <div class="card-body">
-                                                                <h5 class="text-center">Tipos De Moles</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content. This content is a little bit
-                                                                        longer.</p>
+                                                                <h5 class="text-center">Mole Negro</h5>
+                                                                <h4>Puedes Adquirir tu producto con los diferentes
+                                                                        precios</h4>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <button class="btn btn-primary"
+                                                                                type="button">$50 el 1/4</button>
+                                                                        <button class="btn btn-primary"
+                                                                                type="button">$100 el medio
+                                                                                Kilo</button>
+                                                                        <button class="btn btn-primary"
+                                                                                type="button">$200 el Kilo</button>
+                                                                </div>
                                                         </div>
                                                 </div>
                                         </div>
