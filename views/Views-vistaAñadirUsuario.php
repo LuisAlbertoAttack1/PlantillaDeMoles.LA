@@ -83,8 +83,8 @@
                                         <div class="card border-0">
                                                 <div class="card-body">
                                                         <div class="d-grid gap-2 col-6 mx-auto">
-                                                                <button class="btn btn-primary" type="button">Enviar</button>
-                                                                <button class="btn btn-danger" type="button">Cancelar</button>
+                                                                <a href="" class="btn btn-primary" type="button">Enviar</a>
+                                                                <a href="../index.php" class="btn btn-danger" type="button">Cancelar</a>
                                                         </div>
                                                 </div>
                                         </div>
