@@ -275,7 +275,41 @@
 
                                 </div>
                                 <!-- ///////////////// -->
+<!-- 
+                                <div class="" id="RealizarPedidos">
+                                        <br><br><br><br><br><br><br><br>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Realizar Pedidos De Productos
+                                        </h1>
+                                        <h5 class="text-center tipo-letra">Usuario por favor coloque la informacion
+                                                corespondiente para poder realizar su pedido de dicho producto </h5>
+                                        <br>
+                                        <div class="row">
+                                                <div class="col-sm-6">
+                                                        <div class="card border-0">
+                                                                <div class="card-body">
+                                                                        <div class="text-center">
+                                                                                <img src="./img/img8.gif" class="img-fluid tamaño-de-img-card-mole" alt="">
+                                                                        </div>
 
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                        <div class="card border-0 tipo-letra">
+                                                                <div class="card-body">
+                                                                        <h2 class="text-center mt-3 mb-3"> Informacion
+                                                                                De Pedidos Conforme Al Usuario</h2>
+                                                                        <h5>Nombre De Usuario</h5>
+                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                                                                </div>
+                                                                <h5>Forma De Compra Del Producto</h5>
+                                                                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+
+                                                        </div>
+                                                </div>
+                                        </div>
+
+                                </div> -->
                                 <!--Informacion Siguiente-->
                                 <div class="row row-cols-md-2 g-4 tipo-letra">
                                         <div class="col">

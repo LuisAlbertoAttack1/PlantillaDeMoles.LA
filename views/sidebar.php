@@ -24,9 +24,9 @@
                     <li class="nav-item  mt-1 mb-1">
                         <a class="btn btn-moles btn-block" href="#InformacionSobreLaEmpresa"><i class="fa-solid fa-circle-info"></i> Informacion Sobre La Empresa</a>
                     </li>
-                    <li class="nav-item  mt-1 mb-1">
+                    <!-- <li class="nav-item  mt-1 mb-1">
                         <a class="btn btn-moles btn-block" href="#RealizarPedidos"><i class="fa-solid fa-truck-fast"></i> Realizar Pedidos</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item  mt-1 mb-1">
                         <a class="btn btn-moles btn-block" href="#QuejasDeNuestroServicio"><i class="fa-solid fa-paper-plane"></i> Quejas De Nuestro Servicio</a>
                     </li>
@@ -104,7 +104,7 @@
                 </div>
             </a>
         </div>
-        <div class="item mt-4 mb-4">
+        <!-- <div class="item mt-4 mb-4">
             <a href="#RealizarPedidos" title="Realizar Pedidos">
                 <div class="ico text-center">
                 <i class="fa-solid fa-truck-fast"></i>
@@ -113,7 +113,7 @@
                     <span>Realizar Pedidos</span>
                 </div>
             </a>
-        </div>
+        </div> -->
         <div class="item mt-4 mb-4">
             <a href="#QuejasDeNuestroServicio" title="Quejas Servicio">
                 <div class="ico text-center">
