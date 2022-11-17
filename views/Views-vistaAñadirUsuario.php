@@ -15,17 +15,12 @@
 </head>
 
 <body class="fondoColorLoginCreacionDeUser">
-<<<<<<< HEAD
         <div class="container-fluid">
-=======
-        <div class="container">
->>>>>>> 0dde5cfb6063ddd2c66b5304cc2c39ca1a676be1
                 <div class="row">
                         <div class="col">
                                 <div class="card mt-4 position-absolute
                                                 top-50 start-50 translate-middle
                                                 tamañocardsdos">
-<<<<<<< HEAD
                                         <div class="card-body">
                                                 <!------------------------->
                                                 <div class="row
@@ -128,73 +123,6 @@
                                                                         </div>
                                                                 </div>
                                                         </div>
-=======
-                                        <!---->
-                                        <div class="row row-cols-1 row-cols-md-2 g-4">
-                                                <div class="col">
-                                                        <div class="card border-0">
-                                                                <div class="text-center">
-                                                                        <img src="../img/LogoDeEmpresa.png" class="card-img-top tamañoDeLogoLogin" alt="...">
-
-                                                                </div>
-                                                                <div class="card-body">
-                                                                        <h5>Nombre De Cliente</h5>
-                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                </div>
-                                                        </div>
-                                                </div>
-                                                <div class="col">
-                                                        <div class="card border-0 mt-4 mb-4">
-                                                        <div class="text-center">
-                                                        <img src="../img/LogoDeEmpresa.png" class="tamaño-logo-dos" alt="" srcset="">
-                                                              
-                                                        </div>      
-                                                        <div class="card-body">
-                                                                        <h5>Apellido Paterno Cliente</h5>
-                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                        <!----->
-                                                                        <h5>Apellido Materno Cliente</h5>
-                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-
-                                                                </div>
-                                                        </div>
-                                                </div>
-                                                <div class="col">
-                                                        <div class="card border-0">
-                                                                <div class="card-body">
-                                                                        <h5>Direccion Del Cliente</h5>
-                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                        <!------>
-                                                                        <h5>Codigo Postal</h5>
-                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-
-                                                                </div>
-                                                        </div>
-                                                </div>
-                                                <div class="col">
-                                                        <div class="card border-0">
-                                                                <div class="card-body">
-                                                                        <h5>Telefono Del Cliente</h5>
-                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                        <!------>
-                                                                        <h5>Nombre De Usuario</h5>
-                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                        <!------>
-                                                                        <h5>Contraseña De Usuario</h5>
-                                                                        <input type="password" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                </div>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                        <!---->
-
-                                        <div class="card border-0">
-                                                <div class="card-body">
-                                                        <div class="d-grid gap-2 col-6 mx-auto">
-                                                                <a href="" class="btn btn-primary" type="button">Enviar</a>
-                                                                <a href="../index.php" class="btn btn-danger" type="button">Cancelar</a>
-                                                        </div>
->>>>>>> 0dde5cfb6063ddd2c66b5304cc2c39ca1a676be1
                                                 </div>
                                                 <!--------------------------->
                                                 <!----->
