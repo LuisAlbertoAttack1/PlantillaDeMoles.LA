@@ -54,14 +54,10 @@
                                                                                                 Rios</h1>
                                                                                         <h4 class="tipo-letra
                                                                                                 mt-4
-                                                                                                mb-4"><img src="../img/IconoUser.png" class="TamañoDeIconosEnLogin" alt="" srcset="">
+                                                                                                mb-4">
                                                                                                 Nombre
-                                                                                                Completo</h4>
-                                                                                        <div class="form-floating
-                                                                                                mb-3">
-                                                                                                <input type="text" class="form-control" name="nombre_completo" placeholder="Usuario" required="">
-                                                                                                <label for="floatingInput" class="tipo-letra">Nombre</label>
-                                                                                        </div>
+                                                                                                </h4>
+                                                                                                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
                                                                                 </div>
                                                                         </div>
                                                         </div>
@@ -69,31 +65,13 @@
                                                                 <div class="card
                                                                                 border-0">
                                                                         <div class="card-body">
-                                                                                <h4 class="tipo-letra"><img src="../img/IconoUser.png" class="TamañoDeIconosEnLogin" alt="" srcset="">
-                                                                                        Nombre
-                                                                                        De
-                                                                                        Usuario</h4>
-                                                                                <div class="form-floating
-                                                                                                mb-3">
-                                                                                        <input type="text" class="form-control" name="usuario" placeholder="Usuario" required="">
-
-                                                                                        <label for="floatingInput" class="tipo-letra">Nombre
-                                                                                                De
-                                                                                                Usuario
-                                                                                                Nuevo</label>
-                                                                                </div>
+                                                                                <h4 class="tipo-letra">
+                                                                                        Apellido Paterno</h4>
+                                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
                                                                                 <!--------->
-                                                                                <h4 class="tipo-letra"><img src="../img/IconoPasword.png" class="TamañoDeIconosEnLogin" alt="" srcset="">
-                                                                                        Contraseña</h4>
-                                                                                <div class="form-floating
-                                                                                                mb-3">
-                                                                                        <input type="password" class="form-control" name="password" placeholder="Usuario" required="">
-                                                                                        <label for="floatingInput" class="tipo-letra">Contraseña
-                                                                                                "Mayor
-                                                                                                A
-                                                                                                4
-                                                                                                Dijitos"</label>
-                                                                                </div>
+                                                                                <h4 class="tipo-letra">
+                                                                                        Apellido Materno</h4>
+                                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
                                                                         </div>
                                                                 </div>
                                                         </div>
@@ -101,26 +79,19 @@
                                                                 <div class="card
                                                                                 border-0">
                                                                         <div class="card-body">
-                                                                                <h4 class="tipo-letra"><img src="../img/IconoCorreo.png" class="TamañoDeIconosEnLogin" alt="" srcset="">
-                                                                                        Correo
-                                                                                        Electronico</h4>
-                                                                                <div class="form-floating
-                                                                                                mb-3">
-                                                                                        <input type="email" class="form-control" name="email" placeholder="Usuario" required="">
-                                                                                        <label for="floatingInput" class="tipo-letra">Correo
-                                                                                                Electronico</label>
-                                                                                </div>
+                                                                                <h4 class="tipo-letra">
+                                                                                        Direccion</h4>
+                                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
                                                                                 <!---------->
-                                                                                <h4 class="tipo-letra"><img src="../img/IconoTelefono.png" class="TamañoDeIconosEnLogin" alt="" srcset="">
-                                                                                        Numero
-                                                                                        Telefonico</h4>
-                                                                                <div class="form-floating
-                                                                                                mb-3">
-                                                                                        <input type="text" class="form-control" name="telefono" placeholder="Usuario" required="">
-                                                                                        <label for="floatingInput" class="tipo-letra">Numero
-                                                                                                Telefonico</label>
+
+                                                                                      Codigo Postal</h4>
+                                                                                      <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                                                                         <!---------->
+
+                                                                                      Telefono (Numero)</h4>
+                                                                                      <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                                                                       
                                                                                 </div>
-                                                                        </div>
                                                                 </div>
                                                         </div>
                                                 </div>

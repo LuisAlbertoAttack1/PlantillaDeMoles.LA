@@ -131,8 +131,9 @@
                                                                                 tradicionales de la gastronomía
                                                                                 mexicana.</h6>
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
-                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
-                                                                                        Receta</button>
+                                                                                <a href="./views-Recetas/Views-Receta-1.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                        Receta</a>
+                                                                                        <!--R1-->
                                                                         </div>
                                                                 </div>
                                                         </div>
@@ -275,112 +276,7 @@
 
                                 </div>
                                 <!-- ///////////////// -->
-<!-- 
-                                <div class="" id="RealizarPedidos">
-                                        <br><br><br><br><br><br><br><br>
-                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Realizar Pedidos De Productos
-                                        </h1>
-                                        <h5 class="text-center tipo-letra">Usuario por favor coloque la informacion
-                                                corespondiente para poder realizar su pedido de dicho producto </h5>
-                                        <br>
-                                        <div class="row">
-                                                <div class="col-sm-6">
-                                                        <div class="card border-0">
-                                                                <div class="card-body">
-                                                                        <div class="text-center">
-                                                                                <img src="./img/img8.gif" class="img-fluid tamaño-de-img-card-mole" alt="">
-                                                                        </div>
 
-                                                                </div>
-                                                        </div>
-                                                </div>
-                                                <div class="col-sm-6">
-                                                        <div class="card border-0 tipo-letra">
-                                                                <div class="card-body">
-                                                                        <h2 class="text-center mt-3 mb-3"> Informacion
-                                                                                De Pedidos Conforme Al Usuario</h2>
-                                                                        <h5>Nombre De Usuario</h5>
-                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                </div>
-                                                                <h5>Forma De Compra Del Producto</h5>
-                                                                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-
-                                                        </div>
-                                                </div>
-                                        </div>
-
-                                </div> -->
-                                <!--Informacion Siguiente-->
-                                <!-- <div class="row row-cols-md-2 g-4 tipo-letra">
-                                        <div class="col">
-                                                <div class="card border-0">
-                                                        <div class="card-body">
-                                                                <h5>Cantidad De Producto 1 kilo, 5
-                                                                        kilos, Colocar Cantidad, etc.
-                                                                </h5>
-                                                                <div class="form-floating mb-3">
-                                                                        <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-                                                                        <label for="floatingInput">
-                                                                                Datos De Tu
-                                                                                Pedido</label>
-                                                                </div>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                        <div class="col">
-                                                <div class="card border-0">
-                                                        <div class="card-body">
-                                                                <h5>Codigo Postal</h5>
-                                                                <div class="form-floating mb-3">
-                                                                        <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-                                                                        <label for="floatingInput">
-                                                                                Datos De Tu
-                                                                                Pedido</label>
-                                                                </div>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                        <div class="col">
-                                                <div class="card border-0">
-                                                        <div class="card-body">
-                                                                <h5>Nombre De Tu Mole</h5>
-                                                                <div class="form-floating mb-3">
-                                                                        <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-                                                                        <label for="floatingInput">
-                                                                                Datos De Tu
-                                                                                Pedido</label>
-                                                                </div>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                        <div class="col">
-                                                <div class="card border-0">
-                                                        <div class="card-body">
-                                                                <h5>Referencias De Tu Domicilio</h5>
-                                                                <div class="form-floating mb-3">
-                                                                        <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-                                                                        <label for="floatingInput">
-                                                                                Datos De Tu
-                                                                                Pedido</label>
-                                                                </div>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                </div>
-                        </div>
-                        <div class="card border-0">
-                                <div class="card-body text-center tipo-letra">
-                                        <div class="d-grid gap-2">
-                                                <button class="btn btn-warning mt-2 mb-2" type="button">Aceptación
-                                                        De
-                                                        Pedido</button>
-                                                <button class="btn btn-danger" type="button">Cancelar</button>
-                                        </div>
-                                </div>
-                        </div>
-
-                </div> -->
-                <!-- ///////////////// -->
                 <div class="" id="QuejasDeNuestroServicio">
                         <br><br><br>
                         <h1 class="text-center mb-4 tipo-Letra-Titulo">Quejas Sobre Nuestro Servicio
@@ -509,17 +405,10 @@
                                                                 <h5 class="tipo-letra"><img src="./img/imgIcono.svg" alt="" srcset="">
                                                                         Usuario</h5>
 
-                                                                <div class="form-floating
-                                                                                mb-3">
-                                                                        <input type="text" class="form-control" id="floatingInput" placeholder="Usuario">
-                                                                        <label for="floatingInput" class="tipo-letra">Usuario</label>
-                                                                </div>
+                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
                                                                 <h5 class="tipo-letra"> <img src="./img/imgIconoPass.svg" alt="" srcset="">
-                                                                        Contraseña</h5>
-                                                                <div class="form-floating">
-                                                                        <input type="password" class="form-control" id="floatingPassword" placeholder="Contraseña">
-                                                                        <label for="floatingPassword" class="tipo-letra">Contraseña</label>
-                                                                </div>
+                                                                         Contraseña</h5>
+                                                                         <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
 
                                                                 <div <div class="row">
                                                                         <div class="col-sm-6">
@@ -565,7 +454,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
         <script src="js/controller_navbar.js"></script>
 
-<<<<<<< HEAD
+
         <!------>
         <script type="text/javascript">
                 $(document).ready(function() {
@@ -592,8 +481,7 @@
         </script>
 
         <!------>
-=======
->>>>>>> 580cdc06bad0cefe4ed2983adaf67656f979ae33
+
 </body>
 
 </html>
