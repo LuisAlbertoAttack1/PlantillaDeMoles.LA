@@ -11,7 +11,8 @@
         <link rel="stylesheet" href="css/sidebar.css">
         <script src="js/jquery.js"></script>
         <script src="js/all.js"></script>
-<script src="./js/mascaraDeCarga/jquery.blockUI.js"></script>
+        <script src="./js/mascaraDeCarga/jquery.blockUI.js"></script>
+        <script src="./js/mascara.js"></script>
         <title>Principal</title>
 </head>
 
@@ -564,6 +565,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
         <script src="js/controller_navbar.js"></script>
 
+<<<<<<< HEAD
         <!------>
         <script type="text/javascript">
                 $(document).ready(function() {
@@ -590,6 +592,8 @@
         </script>
 
         <!------>
+=======
+>>>>>>> 580cdc06bad0cefe4ed2983adaf67656f979ae33
 </body>
 
 </html>
