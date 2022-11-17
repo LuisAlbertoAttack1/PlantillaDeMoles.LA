@@ -310,7 +310,7 @@
 
                                 </div> -->
                                 <!--Informacion Siguiente-->
-                                <div class="row row-cols-md-2 g-4 tipo-letra">
+                                <!-- <div class="row row-cols-md-2 g-4 tipo-letra">
                                         <div class="col">
                                                 <div class="card border-0">
                                                         <div class="card-body">
@@ -378,7 +378,7 @@
                                 </div>
                         </div>
 
-                </div>
+                </div> -->
                 <!-- ///////////////// -->
                 <div class="" id="QuejasDeNuestroServicio">
                         <br><br><br>
@@ -564,7 +564,6 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
         <script src="js/controller_navbar.js"></script>
 
-
         <!------>
         <script type="text/javascript">
                 $(document).ready(function() {
@@ -573,7 +572,7 @@
 
                 function mascaraObloqueo() {
                         $.blockUI({
-                                message: ' <img src="./img/LogoDeEmpresa.png" width="300" height="300"> <br> Creador Fernando Lujan',
+                                message: ' <img src="./img/image.png" width="300" height="300"> <br> Creador Fernando Lujan',
 
                                 css: {
                                         border: 'none',
