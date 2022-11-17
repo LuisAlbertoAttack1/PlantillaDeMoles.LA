@@ -1,4 +1,4 @@
 <?php
-include "../db/Conexion.php";
+require_once "../db/Conexion.php";
 
 ?>
