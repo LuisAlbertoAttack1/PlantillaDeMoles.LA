@@ -11,18 +11,19 @@ $direccion = $_POST['txt_direccion'];
 $codigo_postal = $_POST['txt_codigopostal'];
 $telefono = $_POST['txt_telefono'];
 $usuario = $_POST['txt_usuario'];
-$password = $_POST['txt_password'];
-/*print_r($_POST);
-echo "<br>";*/
+$password = sha1($_POST['txt_password']);
 
+/**Guardar todos los datos en su respectivo arreglo*/
 $datos_cliente = array($nombre, $apellido_paterno,$apellido_materno,$direccion,$codigo_postal,$telefono);
 $datos_usuario = array($usuario, $password);
 
-/***Abrir conexion para consultar el ultimo id ingresado*/
+
+/**Instancia de obj para acceder a la clase Usuarios */
 $obj = new Usuarios();
+/**Guardar lo que nos devuelve el commit de la db(t_clientes) */
 $resp = $obj->insertar_info_usuario($datos_cliente);
 
-    
+        //Verifica que haga el segundo commit (t_usuarios) y regresa a la pagina principal     
         if($obj->insertar_usuario($datos_usuario,$resp)){
             header('location:../index.php');
     

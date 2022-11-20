@@ -1,5 +1,6 @@
 <?php 
 class Usuarios{
+    //Inserta la informacion y devuelve el id con el que se inserto a la bd
     public function insertar_info_usuario($datos){
       $c = new Conexion();
       $conexion = $c->conectar();
@@ -12,6 +13,7 @@ class Usuarios{
       
       return $ultimo_id;
     }
+    //Inserta el usuario, contraseña e inserta el id recibido de insertar_info_usuario
     public function insertar_usuario($datos,$ultimo_id){
       $c = new Conexion();
       $conexion = $c->conectar();
@@ -23,6 +25,28 @@ class Usuarios{
 
       return $resultado;
 
+
+   }
+   public function logear($usuario, $password){
+      try{
+        $con = new Conexion();
+        $conexion = $con->conectar();
+
+        $sql = "SELECT * FROM t_usuarios WHERE usuario = '$usuario' AND password = '$password'";
+        $respuesta = mysqli_query($conexion,$sql);
+
+        //Debemos preguntar cuantos registros existen 
+        $existe = mysqli_num_rows($respuesta);
+        if($existe > 0){
+          $_SESSION['usuario'] = $usuario;
+          return true;
+        }else{
+          return false;
+        }
+
+      }catch(\Throwable $th){
+        return $th->getMessage();
+      } 
 
    }
 

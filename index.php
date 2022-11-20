@@ -1,3 +1,9 @@
+<?php
+session_start();
+if(isset($_SESSION['usuario'])){
+   echo "<h2>ADENTROOOOOOO</h2>";   
+}
+?>
 <!doctype html>
 <html lang="en">
 
@@ -402,25 +408,28 @@
                                                                                 Moles Tradicionales Rios
                                                                         </h2>
                                                                 </div>
+                                                                <form action="./procesos/login.php" method="post">
                                                                 <h5 class="tipo-letra"><img src="./img/imgIcono.svg" alt="" srcset="">
                                                                         Usuario</h5>
 
-                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                                                                        <input type="text" class="form-control" name="txt_usuario" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" required="">
                                                                 <h5 class="tipo-letra"> <img src="./img/imgIconoPass.svg" alt="" srcset="">
                                                                          Contraseña</h5>
-                                                                         <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                                                                         <input type="password" class="form-control" name="txt_password" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" required="">
 
-                                                                <div <div class="row">
+                                                                 <div class="row">
                                                                         <div class="col-sm-6">
                                                                                 <div class="card text-center border-0">
                                                                                         <div class="card-body">
                                                                                                 <div class="d-grid gap-2 d-md-block">
-                                                                                                        <a href="#" class="btn btn-primary" type="button">Iniciar Sesion</a>
+                                                                                                        <button class="btn btn-primary">Iniciar Sesion</button>
 
                                                                                                 </div>
                                                                                         </div>
                                                                                 </div>
                                                                         </div>
+                                                                 </div>
+                                                                 
                                                                         <div class="col-sm-6">
                                                                                 <div class="card text-center border-0">
                                                                                         <div class="card-body">
@@ -434,12 +443,12 @@
 
                                                                 </div>
 
-
+                                                                </form>
 
 
                                                         </div>
                                                 </div>
-                                        </div>
+                                                                                       </div>
                                 </div>
                         </div>
                 </div>
@@ -481,6 +490,8 @@
         </script>
 
         <!------>
+
+
 
 </body>
 
