@@ -4,7 +4,7 @@
         private $servidor = "localhost";
         private $usuario = "admin";
         private $password = "root";
-        private $bd = "molestradicionalesrios";
+        private $bd = "molesrios";
 
         public function conectar(){
             try{
