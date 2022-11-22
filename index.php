@@ -133,7 +133,7 @@
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
                                                                                 <a href="./views-Recetas/Views-Receta-1.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
                                                                                         Receta</a>
-                                                                                        <!--R1-->
+                                                                                <!--R1-->
                                                                         </div>
                                                                 </div>
                                                         </div>
@@ -152,8 +152,9 @@
                                                                                 tradicionales de la gastronomía
                                                                                 mexicana.</h6>
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
-                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
-                                                                                        Receta</button>
+                                                                                <a href="./views-Recetas/Views-Receta-2.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                        Receta</a>
+                                                                                <!--R2-->
                                                                         </div>
                                                                 </div>
                                                         </div>
@@ -170,8 +171,9 @@
                                                                                 tradicionales de la gastronomía
                                                                                 mexicana.</h6>
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
-                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
-                                                                                        Receta</button>
+                                                                                <a href="./views-Recetas/Views-Receta-3.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                        Receta</a>
+                                                                          <!--R3-->
                                                                         </div>
                                                                 </div>
                                                         </div>
@@ -192,8 +194,9 @@
                                                                                 tradicionales de la gastronomía
                                                                                 mexicana.</h6>
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
-                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
-                                                                                        Receta</button>
+                                                                                <a href="./views-Recetas/Views-Receta-4.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                        Receta</a>
+                                                                        <!--R4-->              
                                                                         </div>
                                                                 </div>
                                                         </div>
@@ -277,118 +280,87 @@
                                 </div>
                                 <!-- ///////////////// -->
 
-                <div class="" id="QuejasDeNuestroServicio">
-                        <br><br><br>
-                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Quejas Sobre Nuestro Servicio
-                        </h1>
-                        <br>
-                        <div class="row row-cols-1 row-cols-md-2 g-4 tipo-letra">
-                                <div class="col">
-                                        <div class="card border-0 color-circulo-verde">
-                                                <div class="card-body">
-                                                        <h3>Queja Baja</h3>
-                                                        <h5 class="mt-4">Falta De Comunicacion Con
-                                                                Nuestrs Empresa Moles Tradicionales Ríos
-                                                        </h5>
-                                                </div>
-                                        </div>
-                                </div>
-                                <div class="col">
-                                        <div class="card border-0 color-circulo-amarillo">
-                                                <div class="card-body">
-                                                        <h3>Queja Media</h3>
-                                                        <h5 class="mt-4">Falta De Comunicacion Con
-                                                                Nuestrs Empresa Moles Tradicionales Ríos
-                                                        </h5>
-
-                                                </div>
-                                        </div>
-                                </div>
-                                <div class="col">
-                                        <div class="card border-0 color-circulo-rojo">
-                                                <div class="card-body">
-                                                        <h3>Queja Alta</h3>
-                                                        <h5 class="mt-4">Falta De Comunicacion Con
-                                                                Nuestrs Empresa Moles Tradicionales Ríos
-                                                        </h5>
-                                                        <br>
-                                                </div>
-                                        </div>
-                                </div>
-                                <div class="col">
-                                        <div class="card border-0">
-                                                <div class="card-body color-circulo-transparente">
-                                                        <h3>Queja Personal Favor De Ingresar Su
-                                                                Informacion</h3>
-                                                        <div class="form-floating mb-3">
-                                                                <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-                                                                <label for="floatingInput">
-                                                                        Ingresar Datos De Dicha
-                                                                        Queja</label>
-                                                        </div>
-                                                        <div class="d-grid gap-2 col-6 mx-auto">
-                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ingresar
-                                                                        Informacion
-                                                                </button>
+                                <div class="" id="QuejasDeNuestroServicio">
+                                        <br><br><br>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Quejas Sobre Nuestro Servicio
+                                        </h1>
+                                        <br>
+                                        <div class="row row-cols-1 row-cols-md-2 g-4 tipo-letra">
+                                                <div class="col">
+                                                        <div class="card border-0 color-circulo-verde">
+                                                                <div class="card-body">
+                                                                        <h3>Queja Baja</h3>
+                                                                        <h5 class="mt-4">Falta De Comunicacion Con
+                                                                                Nuestrs Empresa Moles Tradicionales Ríos
+                                                                        </h5>
+                                                                </div>
                                                         </div>
                                                 </div>
+                                                <div class="col">
+                                                        <div class="card border-0 color-circulo-amarillo">
+                                                                <div class="card-body">
+                                                                        <h3>Queja Media</h3>
+                                                                        <h5 class="mt-4">Falta De Comunicacion Con
+                                                                                Nuestrs Empresa Moles Tradicionales Ríos
+                                                                        </h5>
 
-                                        </div>
-                                </div>
-                        </div>
-                        <br><br>
-                </div>
-                <!-- ///////////////// -->
-                <div class="" id="LocalizacionDeEmpresa">
-                        <br><br><br>
-                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Ubicacion Actual De La Empresa
-                        </h1>
-                        <br>
-                        <div class="row tipo-letra">
-                                <div class="col-sm-6 ">
-                                        <div class="card border-0">
-                                                <div class="card-body">
-                                                        <h5 class="card-title">La Empresa Esta Hubicada
-                                                                en la:</h5>
-                                                        <h5> Lorem ipsum dolor, sit amet consectetur
-                                                                adipisicing elit. Inventore quidem hic
-                                                                tempore nam. Tempore asperiores adipisci
-                                                                totam quod commodi ut rem eveniet, illum
-                                                                quo nemo ad, placeat ipsum quisquam
-                                                                iste.</h5>
-                                                        <a href="#" class="btn btn-primary mt-4 -b-4">Ingresar
-                                                                A Mas Informacion</a>
+                                                                </div>
+                                                        </div>
                                                 </div>
-                                        </div>
-                                </div>
-                                <div class="col-sm-6">
-                                        <div class="card border-0">
-                                                <div class="card-body">
-                                                        <div class="text-center">
-                                                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15070.003100773483!2d-99.00076843332705!3d19.21699515426017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1b3d499e89a7%3A0x10d5bd39bc57a44e!2sSan%20Antonio%20Tec%C3%B3mitl%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1665897351747!5m2!1ses-419!2smx" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                                                <br>
-                                                                <h5 class="text-center">LUGAR DONDE
-                                                                        PUEDEN VISITAR LA EMPRESA DE
-                                                                        MOLES TRADICIONALES RIOS</h5>
+                                                <div class="col">
+                                                        <div class="card border-0 color-circulo-rojo">
+                                                                <div class="card-body">
+                                                                        <h3>Queja Alta</h3>
+                                                                        <h5 class="mt-4">Falta De Comunicacion Con
+                                                                                Nuestrs Empresa Moles Tradicionales Ríos
+                                                                        </h5>
+                                                                        <br>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="col">
+                                                        <div class="card border-0">
+                                                                <div class="card-body color-circulo-transparente">
+                                                                        <h3>Queja Personal Favor De Ingresar Su
+                                                                                Informacion</h3>
+                                                                        <div class="form-floating mb-3">
+                                                                                <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                                                                                <label for="floatingInput">
+                                                                                        Ingresar Datos De Dicha
+                                                                                        Queja</label>
+                                                                        </div>
+                                                                        <div class="d-grid gap-2 col-6 mx-auto">
+                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ingresar
+                                                                                        Informacion
+                                                                                </button>
+                                                                        </div>
+                                                                </div>
+
                                                         </div>
                                                 </div>
                                         </div>
+                                        <br><br>
                                 </div>
-                        </div>
-                        <br><br>
-                </div>
-                <!-- ///////////////// -->
-                <div class="" id="SeccionIniciar">
-                        <br><br><br>
-                        <h1 class="text-center mb-4 tipo-Letra-Titulo">REGISTRO </h1>
-
-                        <div class="card shadow p-3 mb-5 bg-body rounded border-0">
-                                <div class="card-body">
-                                        <div class="row">
-                                                <div class="col-sm-6">
+                                <!-- ///////////////// -->
+                                <div class="" id="LocalizacionDeEmpresa">
+                                        <br><br><br>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Ubicacion Actual De La Empresa
+                                        </h1>
+                                        <br>
+                                        <div class="row tipo-letra">
+                                                <div class="col-sm-6 ">
                                                         <div class="card border-0">
                                                                 <div class="card-body">
-                                                                        <img src="./img/LogoDeEmpresa.png" alt="" srcset="">
+                                                                        <h5 class="card-title">La Empresa Esta Hubicada
+                                                                                en la:</h5>
+                                                                        <h5> Lorem ipsum dolor, sit amet consectetur
+                                                                                adipisicing elit. Inventore quidem hic
+                                                                                tempore nam. Tempore asperiores adipisci
+                                                                                totam quod commodi ut rem eveniet, illum
+                                                                                quo nemo ad, placeat ipsum quisquam
+                                                                                iste.</h5>
+                                                                        <a href="#" class="btn btn-primary mt-4 -b-4">Ingresar
+                                                                                A Mas Informacion</a>
                                                                 </div>
                                                         </div>
                                                 </div>
@@ -396,58 +368,89 @@
                                                         <div class="card border-0">
                                                                 <div class="card-body">
                                                                         <div class="text-center">
-                                                                                <img src="./img/LogoDeEmpresa.png" class="TamañoLogoLoginUno mt-2 mb-2" alt="" srcset="">
+                                                                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15070.003100773483!2d-99.00076843332705!3d19.21699515426017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1b3d499e89a7%3A0x10d5bd39bc57a44e!2sSan%20Antonio%20Tec%C3%B3mitl%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1665897351747!5m2!1ses-419!2smx" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                                                                <br>
+                                                                                <h5 class="text-center">LUGAR DONDE
+                                                                                        PUEDEN VISITAR LA EMPRESA DE
+                                                                                        MOLES TRADICIONALES RIOS</h5>
                                                                         </div>
-                                                                        <h2 class="text-center tipo-letra">
-                                                                                Moles Tradicionales Rios
-                                                                        </h2>
                                                                 </div>
-                                                                <h5 class="tipo-letra"><img src="./img/imgIcono.svg" alt="" srcset="">
-                                                                        Usuario</h5>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <br><br>
+                                </div>
+                                <!-- ///////////////// -->
+                                <div class="" id="SeccionIniciar">
+                                        <br><br><br>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">REGISTRO </h1>
 
-                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                <h5 class="tipo-letra"> <img src="./img/imgIconoPass.svg" alt="" srcset="">
-                                                                         Contraseña</h5>
-                                                                         <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-
-                                                                <div <div class="row">
-                                                                        <div class="col-sm-6">
-                                                                                <div class="card text-center border-0">
-                                                                                        <div class="card-body">
-                                                                                                <div class="d-grid gap-2 d-md-block">
-                                                                                                        <a href="#" class="btn btn-primary" type="button">Iniciar Sesion</a>
-
-                                                                                                </div>
-                                                                                        </div>
+                                        <div class="card shadow p-3 mb-5 bg-body rounded border-0">
+                                                <div class="card-body">
+                                                        <div class="row">
+                                                                <div class="col-sm-6">
+                                                                        <div class="card border-0">
+                                                                                <div class="card-body">
+                                                                                        <img src="./img/LogoDeEmpresa.png" alt="" srcset="">
                                                                                 </div>
                                                                         </div>
-                                                                        <div class="col-sm-6">
-                                                                                <div class="card text-center border-0">
-                                                                                        <div class="card-body">
-                                                                                                <div class="d-grid gap-2 d-md-block">
-                                                                                                        <a href="./views/Views-vistaAñadirUsuario.php" class="btn btn-warning" type="button">Registrarse</a>
+                                                                </div>
+                                                                <div class="col-sm-6">
+                                                                        <div class="card border-0">
+                                                                                <div class="card-body">
+                                                                                        <div class="text-center">
+                                                                                                <img src="./img/LogoDeEmpresa.png" class="TamañoLogoLoginUno mt-2 mb-2" alt="" srcset="">
+                                                                                        </div>
+                                                                                        <h2 class="text-center tipo-letra">
+                                                                                                Moles Tradicionales Rios
+                                                                                        </h2>
+                                                                                </div>
+                                                                                <h5 class="tipo-letra"><img src="./img/imgIcono.svg" alt="" srcset="">
+                                                                                        Usuario</h5>
 
+                                                                                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                                                                                <h5 class="tipo-letra"> <img src="./img/imgIconoPass.svg" alt="" srcset="">
+                                                                                        Contraseña</h5>
+                                                                                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+
+                                                                                <div <div class="row">
+                                                                                        <div class="col-sm-6">
+                                                                                                <div class="card text-center border-0">
+                                                                                                        <div class="card-body">
+                                                                                                                <div class="d-grid gap-2 d-md-block">
+                                                                                                                        <a href="#" class="btn btn-primary" type="button">Iniciar Sesion</a>
+
+                                                                                                                </div>
+                                                                                                        </div>
                                                                                                 </div>
                                                                                         </div>
+                                                                                        <div class="col-sm-6">
+                                                                                                <div class="card text-center border-0">
+                                                                                                        <div class="card-body">
+                                                                                                                <div class="d-grid gap-2 d-md-block">
+                                                                                                                        <a href="./views/Views-vistaAñadirUsuario.php" class="btn btn-warning" type="button">Registrarse</a>
+
+                                                                                                                </div>
+                                                                                                        </div>
+                                                                                                </div>
+                                                                                        </div>
+
                                                                                 </div>
+
+
+
+
                                                                         </div>
-
                                                                 </div>
-
-
-
-
                                                         </div>
                                                 </div>
                                         </div>
                                 </div>
                         </div>
+
+
                 </div>
-        </div>
-
-
-        </div>
-        <!-- ///////////////// -->
+                <!-- ///////////////// -->
         </div>
         </div>
         </div>
