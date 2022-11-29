@@ -71,24 +71,6 @@
                                                                                         <h4 class="tipo-letra">
                                                                                                 Nombre
                                                                                         </h4>
-<<<<<<< HEAD
-                                                                                        <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                                </div>
-                                                                        </div>
-                                                        </div>
-                                                        <div class="col">
-                                                                <div class="card
-                                                                                border-0">
-                                                                        <div class="card-body">
-                                                                                <h4 class="tipo-letra">
-                                                                                        Apellido Paterno</h4>
-                                                                                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                                <!--------->
-                                                                                <h4 class="tipo-letra">
-                                                                                        Apellido Materno</h4>
-                                                                                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                        </div>
-=======
                                                                                         <input type="text"
                                                                                                 name="txt_nombre"
                                                                                                 class="form-control"
@@ -135,27 +117,10 @@
                                                                                                 aria-describedby="basic-addon1">
                                                                                 </div>
                                                                         </div>
->>>>>>> aba7a0ef16122a3e9a05d53d510ca9216667a59a
                                                                 </div>
                                                                 <div class="col">
                                                                         <div class="card
                                                                                 border-0">
-<<<<<<< HEAD
-                                                                        <div class="card-body">
-                                                                                <h4 class="tipo-letra">
-                                                                                        Direccion</h4>
-                                                                                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                                <!---------->
-
-                                                                                Codigo Postal</h4>
-                                                                                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                                                                                <!---------->
-
-                                                                                Telefono (Numero)</h4>
-                                                                                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-
-                                                                        </div>
-=======
                                                                                 <div class="card-body">
                                                                                         <h4 class="tipo-letra">
                                                                                                 Direccion</h4>
@@ -193,7 +158,6 @@
                                                                                 </div>
                                                                         </div>
 
->>>>>>> aba7a0ef16122a3e9a05d53d510ca9216667a59a
                                                                 </div>
 
                                                 </div>
