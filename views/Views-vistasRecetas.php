@@ -42,7 +42,7 @@
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="./views-Recetas/Views-Receta-1.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
                                                                                 Receta</a>
                                                                         <!--R1-->
                                                                 </div>
@@ -63,7 +63,7 @@
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="./views-Recetas/Views-Receta-2.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
                                                                                 Receta</a>
                                                                         <!--R2-->
                                                                 </div>
@@ -82,7 +82,7 @@
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="./views-Recetas/Views-Receta-3.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
                                                                                 Receta</a>
                                                                         <!--R3-->
                                                                 </div>

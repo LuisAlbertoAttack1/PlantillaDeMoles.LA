@@ -17,10 +17,37 @@
 </head>
 
 <body>
-        <div class="container">
+<div class="container">
                 <div class="row">
                         <div class="col">
-                              <h2>Hola ya funciono</h2>
+                                <div class="card mt-4 mb-4 tamaño-cards-recetas border-0  shadow-lg p-3 mb-5 bg-body rounded position-absolute top-50 start-50 translate-middle">
+                                        <!---->
+                                        <div class="card-body">
+                                                <br><br><br>
+                                                <!---->
+                                                <h1 class="mt-2 mb-2">Mole de amaranto con pollo</h1>
+                                                <h5>Ingredientes</h5>
+                                                <h5>PARA 4 PERSONAS</h5>
+                                                <h5>1 1/2 tazas Mole rojo almendrado</h5>
+                                                <h5> 2 tazas Caldo de pollo</h5>
+                                                <h5> 3/4 kilo pechugas de pollo molida</h5>
+                                                <h5> 2 cucharadas Cebollas finamente picada</h5>
+                                                <h1 class="mt-2 mb-2">Procedimiento</h1>
+                                                <h5>MEZCLA en un tazón el pollo, la cebolla, el ajo, el perejil, el huevo, el pan molido y salpimienta.</h5>
+                                                <h5>FORMA las albóndigas.</h5>
+                                                <h5>DORA ligeramente, retira y reserva.</h5>
+                                                <h5>CALIENTA el caldo y añade el mole.</h5>
+                                                <h5>DISUELVE y cocina hasta que espese ligeramente.</h5>
+                                                <h5>AÑADE las albóndigas y los nopales.</h5>
+                                                <!---->
+                                                <div class="d-grid gap-2 col-6 mx-auto mt-4 mb-4">
+                                                        <a href="../views/Views-vistasRecetas.php" class="btn btn-warning" type="button">Regresar</a>
+                                                </div>
+                                                <!---->
+                                        </div>
+                                        <!---->
+                                </div>
+
                         </div>
                 </div>
         </div>
