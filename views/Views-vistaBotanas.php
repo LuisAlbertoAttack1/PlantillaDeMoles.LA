@@ -22,163 +22,259 @@
                         <div class="col">
                                 <h2 class="text-center">Hola ya estas dentro de la seccion de botanas</h2>
                                 <br>
-                                <div class="row tipo-letra row-cols-1 row-cols-md-3 g-4">
+                                <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">
-                                                <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
-                                                        <div class="card-body">
-                                                                <h5 class="text-center">Tipos De Botanas</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content. This content is a little bit
-                                                                        longer.</p>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                        <div class="col">
-                                                <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
-                                                        <div class="card-body">
-                                                                <h5 class="card-title">Card title</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content. This content is a little bit
-                                                                        longer.</p>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                        <div class="col">
-                                                <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
-                                                        <div class="card-body">
-                                                                <h5 class="card-title">Card title</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content.</p>
-                                                        </div>
-                                                </div>
-                                        </div>
+                                                <div class="card shadow p-3 mb-5 bg-body rounded border-0">
+                                                        <div class="card-img fondo-color-indefinido">
+                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
+                                                        </div>
+                                                        <div class="card-body text-center tipo-letra">
+                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                <h3>Platillos De Moles</h3>
+                                                                <h6>El mole es uno de los platillos más
+                                                                        tradicionales de la gastronomía
+                                                                        mexicana.</h6>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                Receta</a>
+                                                                        <!--R1-->
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <div class="col">
+                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                        <div class="card-img fondo-color-indefinido-center">
+
+                                                                <img src="../img/img2.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+
+                                                        </div>
+                                                        <div class="card-body text-center tipo-letra">
+                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                <h3>Platillos De Moles</h3>
+                                                                <h6>El mole es uno de los platillos más
+                                                                        tradicionales de la gastronomía
+                                                                        mexicana.</h6>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                Receta</a>
+                                                                        <!--R2-->
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <div class="col">
+                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                        <div class="card-img fondo-color-indefinido">
+                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                        </div>
+                                                        <div class="card-body text-center tipo-letra">
+                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                <h3>Platillos De Moles</h3>
+                                                                <h6>El mole es uno de los platillos más
+                                                                        tradicionales de la gastronomía
+                                                                        mexicana.</h6>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                Receta</a>
+                                                                        <!--R3-->
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
                                 </div>
                                 <!---OTRA SECCION DE PRODUCTOS --->
                                 <br>
-                                <div class="row row-cols-1 row-cols-md-3 g-4">
+                                <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">
-                                                <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
-                                                        <div class="card-body">
-                                                                <h5 class="card-title">Card title</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content. This content is a little bit
-                                                                        longer.</p>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                        <div class="col">
-                                                <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
-                                                        <div class="card-body">
-                                                                <h5 class="card-title">Card title</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content. This content is a little bit
-                                                                        longer.</p>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                        <div class="col">
-                                                <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
-                                                        <div class="card-body">
-                                                                <h5 class="card-title">Card title</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content.</p>
-                                                        </div>
-                                                </div>
-                                        </div>
+                                                <div class="card shadow p-3 mb-5 bg-body rounded border-0">
+                                                        <div class="card-img fondo-color-indefinido">
+                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
+                                                        </div>
+                                                        <div class="card-body text-center tipo-letra">
+                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                <h3>Platillos De Moles</h3>
+                                                                <h6>El mole es uno de los platillos más
+                                                                        tradicionales de la gastronomía
+                                                                        mexicana.</h6>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                Receta</a>
+                                                                        <!--R1-->
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <div class="col">
+                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                        <div class="card-img fondo-color-indefinido-center">
+
+                                                                <img src="../img/img2.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+
+                                                        </div>
+                                                        <div class="card-body text-center tipo-letra">
+                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                <h3>Platillos De Moles</h3>
+                                                                <h6>El mole es uno de los platillos más
+                                                                        tradicionales de la gastronomía
+                                                                        mexicana.</h6>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                Receta</a>
+                                                                        <!--R2-->
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <div class="col">
+                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                        <div class="card-img fondo-color-indefinido">
+                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                        </div>
+                                                        <div class="card-body text-center tipo-letra">
+                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                <h3>Platillos De Moles</h3>
+                                                                <h6>El mole es uno de los platillos más
+                                                                        tradicionales de la gastronomía
+                                                                        mexicana.</h6>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                Receta</a>
+                                                                        <!--R3-->
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
                                 </div>
                                 <!---OTRA SECCION DE PRODUCTOS --->
                                 <br>
-                                <div class="row row-cols-1 row-cols-md-3 g-4">
+                                <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">
-                                                <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
-                                                        <div class="card-body">
-                                                                <h5 class="card-title">Card title</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content. This content is a little bit
-                                                                        longer.</p>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                        <div class="col">
-                                                <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
-                                                        <div class="card-body">
-                                                                <h5 class="card-title">Card title</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content. This content is a little bit
-                                                                        longer.</p>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                        <div class="col">
-                                                <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
-                                                        <div class="card-body">
-                                                                <h5 class="card-title">Card title</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content.</p>
-                                                        </div>
-                                                </div>
-                                        </div>
+                                                <div class="card shadow p-3 mb-5 bg-body rounded border-0">
+                                                        <div class="card-img fondo-color-indefinido">
+                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
+                                                        </div>
+                                                        <div class="card-body text-center tipo-letra">
+                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                <h3>Platillos De Moles</h3>
+                                                                <h6>El mole es uno de los platillos más
+                                                                        tradicionales de la gastronomía
+                                                                        mexicana.</h6>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                Receta</a>
+                                                                        <!--R1-->
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <div class="col">
+                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                        <div class="card-img fondo-color-indefinido-center">
+
+                                                                <img src="../img/img2.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+
+                                                        </div>
+                                                        <div class="card-body text-center tipo-letra">
+                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                <h3>Platillos De Moles</h3>
+                                                                <h6>El mole es uno de los platillos más
+                                                                        tradicionales de la gastronomía
+                                                                        mexicana.</h6>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                Receta</a>
+                                                                        <!--R2-->
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <div class="col">
+                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                        <div class="card-img fondo-color-indefinido">
+                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                        </div>
+                                                        <div class="card-body text-center tipo-letra">
+                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                <h3>Platillos De Moles</h3>
+                                                                <h6>El mole es uno de los platillos más
+                                                                        tradicionales de la gastronomía
+                                                                        mexicana.</h6>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                Receta</a>
+                                                                        <!--R3-->
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
                                 </div>
                                 <!---OTRA SECCION DE PRODUCTOS --->
                                 <br>
-                                <div class="row row-cols-1 row-cols-md-3 g-4">
+                                <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">
-                                                <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
-                                                        <div class="card-body">
-                                                                <h5 class="card-title">Card title</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content. This content is a little bit
-                                                                        longer.</p>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                        <div class="col">
-                                                <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
-                                                        <div class="card-body">
-                                                                <h5 class="card-title">Card title</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content. This content is a little bit
-                                                                        longer.</p>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                        <div class="col">
-                                                <div class="card">
-                                                        <img src="..." class="card-img-top" alt="...">
-                                                        <div class="card-body">
-                                                                <h5 class="card-title">Card title</h5>
-                                                                <p class="card-text">This is a longer card with
-                                                                        supporting text below as a natural lead-in to
-                                                                        additional content.</p>
-                                                        </div>
-                                                </div>
-                                        </div>
+                                                <div class="card shadow p-3 mb-5 bg-body rounded border-0">
+                                                        <div class="card-img fondo-color-indefinido">
+                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
+                                                        </div>
+                                                        <div class="card-body text-center tipo-letra">
+                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                <h3>Platillos De Moles</h3>
+                                                                <h6>El mole es uno de los platillos más
+                                                                        tradicionales de la gastronomía
+                                                                        mexicana.</h6>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                Receta</a>
+                                                                        <!--R1-->
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <div class="col">
+                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                        <div class="card-img fondo-color-indefinido-center">
+
+                                                                <img src="../img/img2.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+
+                                                        </div>
+                                                        <div class="card-body text-center tipo-letra">
+                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                <h3>Platillos De Moles</h3>
+                                                                <h6>El mole es uno de los platillos más
+                                                                        tradicionales de la gastronomía
+                                                                        mexicana.</h6>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                Receta</a>
+                                                                        <!--R2-->
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <div class="col">
+                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
+                                                        <div class="card-img fondo-color-indefinido">
+                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                        </div>
+                                                        <div class="card-body text-center tipo-letra">
+                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
+                                                                <h3>Platillos De Moles</h3>
+                                                                <h6>El mole es uno de los platillos más
+                                                                        tradicionales de la gastronomía
+                                                                        mexicana.</h6>
+                                                                <div class="d-grid gap-2 col-6 mx-auto">
+                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                Receta</a>
+                                                                        <!--R3-->
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
                                 </div>
                         </div>
                 </div>
