@@ -221,8 +221,8 @@ if(isset($_SESSION['usuario'])){
                                                                                 tradicionales de la gastronomía
                                                                                 mexicana.</h6>
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
-                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
-                                                                                        Receta</button>
+                                                                                <a href="./views-Recetas/Views-Receta-5.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                                        Receta</a>
                                                                         </div>
                                                                 </div>
                                                         </div>
