@@ -26,7 +26,7 @@
                                         <div class="col">
                                                 <div class="card shadow p-3 mb-5 bg-body rounded border-0">
                                                         <div class="card-img fondo-color-indefinido">
-                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                                <img src="../img/ImgBotanas.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
@@ -47,7 +47,7 @@
                                                 <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
                                                         <div class="card-img fondo-color-indefinido-center">
 
-                                                                <img src="../img/img2.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                                <img src="../img/ImgBotanas.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
@@ -67,7 +67,7 @@
                                         <div class="col">
                                                 <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
                                                         <div class="card-img fondo-color-indefinido">
-                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                                <img src="../img/ImgBotanas.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
                                                                 <h2 class="text-center">RECETAS DE MOLES</h2>
@@ -90,7 +90,7 @@
                                         <div class="col">
                                                 <div class="card shadow p-3 mb-5 bg-body rounded border-0">
                                                         <div class="card-img fondo-color-indefinido">
-                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                                <img src="../img/ImgBotanas.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
@@ -111,7 +111,7 @@
                                                 <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
                                                         <div class="card-img fondo-color-indefinido-center">
 
-                                                                <img src="../img/img2.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                                <img src="../img/ImgBotanas.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
@@ -131,7 +131,7 @@
                                         <div class="col">
                                                 <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
                                                         <div class="card-img fondo-color-indefinido">
-                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                                <img src="../img/ImgBotanas.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
                                                                 <h2 class="text-center">RECETAS DE MOLES</h2>
@@ -154,7 +154,7 @@
                                         <div class="col">
                                                 <div class="card shadow p-3 mb-5 bg-body rounded border-0">
                                                         <div class="card-img fondo-color-indefinido">
-                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                                <img src="../img/ImgBotanas.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
@@ -175,7 +175,7 @@
                                                 <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
                                                         <div class="card-img fondo-color-indefinido-center">
 
-                                                                <img src="../img/img2.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                                <img src="../img/ImgBotanas.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
@@ -195,7 +195,7 @@
                                         <div class="col">
                                                 <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
                                                         <div class="card-img fondo-color-indefinido">
-                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                                <img src="../img/ImgBotanas.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
                                                                 <h2 class="text-center">RECETAS DE MOLES</h2>
@@ -218,7 +218,7 @@
                                         <div class="col">
                                                 <div class="card shadow p-3 mb-5 bg-body rounded border-0">
                                                         <div class="card-img fondo-color-indefinido">
-                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                                <img src="../img/ImgBotanas.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
@@ -239,7 +239,7 @@
                                                 <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
                                                         <div class="card-img fondo-color-indefinido-center">
 
-                                                                <img src="../img/img2.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                                <img src="../img/ImgBotanas.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
@@ -259,7 +259,7 @@
                                         <div class="col">
                                                 <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
                                                         <div class="card-img fondo-color-indefinido">
-                                                                <img src="../img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
+                                                                <img src="../img/ImgBotanas.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
                                                                 <h2 class="text-center">RECETAS DE MOLES</h2>
