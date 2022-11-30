@@ -29,7 +29,7 @@ CREATE TABLE `t_clientes` (
   `apellido_materno_cliente` varchar(250) DEFAULT NULL,
   `direccion_cliente` varchar(250) DEFAULT NULL,
   `cp_cliente` int(11) DEFAULT NULL,
-  `telefono_cliente` int(15) DEFAULT NULL,
+  `telefono_cliente` bigint(15) DEFAULT NULL,
   PRIMARY KEY (`id_cliente`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;

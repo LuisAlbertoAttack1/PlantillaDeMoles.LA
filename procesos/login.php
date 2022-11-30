@@ -11,7 +11,7 @@ $password = sha1($_POST['txt_password']);
 $respuesta = $Usuarios->logear($usuario,$password);
 
 if($respuesta){
-    header("location:../index.php");
+    header("location:../views/Views-vistaInicio.php");
 }else{
     echo "<script>
     alert('Los datos son incorrectos')

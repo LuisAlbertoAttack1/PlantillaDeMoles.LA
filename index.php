@@ -1,9 +1,3 @@
-<?php
-session_start();
-if(isset($_SESSION['usuario'])){
-   echo "<h2>ADENTROOOOOOO</h2>";   
-}
-?>
 <!doctype html>
 <html lang="en">
 
@@ -288,55 +282,21 @@ if(isset($_SESSION['usuario'])){
                         <h1 class="text-center mb-4 tipo-Letra-Titulo">Quejas Sobre Nuestro Servicio
                         </h1>
                         <br>
-                        <div class="row row-cols-1 row-cols-md-2 g-4 tipo-letra">
-                                <div class="col">
-                                        <div class="card border-0 color-circulo-verde">
-                                                <div class="card-body">
-                                                        <h3>Queja Baja</h3>
-                                                        <h5 class="mt-4">Falta De Comunicacion Con
-                                                                Nuestrs Empresa Moles Tradicionales Ríos
-                                                        </h5>
-                                                </div>
-                                        </div>
-                                </div>
-                                <div class="col">
-                                        <div class="card border-0 color-circulo-amarillo">
-                                                <div class="card-body">
-                                                        <h3>Queja Media</h3>
-                                                        <h5 class="mt-4">Falta De Comunicacion Con
-                                                                Nuestrs Empresa Moles Tradicionales Ríos
-                                                        </h5>
+                        
+                        <div class="row tipo-letra">
 
-                                                </div>
-                                        </div>
-                                </div>
-                                <div class="col">
-                                        <div class="card border-0 color-circulo-rojo">
-                                                <div class="card-body">
-                                                        <h3>Queja Alta</h3>
-                                                        <h5 class="mt-4">Falta De Comunicacion Con
-                                                                Nuestrs Empresa Moles Tradicionales Ríos
-                                                        </h5>
-                                                        <br>
-                                                </div>
-                                        </div>
-                                </div>
                                 <div class="col">
                                         <div class="card border-0">
                                                 <div class="card-body color-circulo-transparente">
-                                                        <h3>Queja Personal Favor De Ingresar Su
-                                                                Informacion</h3>
+                                                
                                                         <div class="form-floating mb-3">
-                                                                <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-                                                                <label for="floatingInput">
-                                                                        Ingresar Datos De Dicha
-                                                                        Queja</label>
-                                                        </div>
+                                                        <form action="./procesos/insertar_queja.php" method="post">                
+                                                        <span class="input-group-text">Favor De Ingresar Su Queja</span>
+                                                                <textarea class="form-control" aria-label="With textarea" name="txt_queja"></textarea>
                                                         <div class="d-grid gap-2 col-6 mx-auto">
-                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ingresar
-                                                                        Informacion
-                                                                </button>
+                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center">Ingresar Informacion</button>      
                                                         </div>
+                                                        </form>                
                                                 </div>
 
                                         </div>
@@ -344,6 +304,7 @@ if(isset($_SESSION['usuario'])){
                         </div>
                         <br><br>
                 </div>
+                
                 <!-- ///////////////// -->
                 <div class="" id="LocalizacionDeEmpresa">
                         <br><br><br>

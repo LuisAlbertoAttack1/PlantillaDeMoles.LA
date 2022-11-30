@@ -49,6 +49,18 @@ class Usuarios{
       } 
 
    }
+   public function insertar_queja($desc_queja){
+    $c = new Conexion();
+    $conexion = $c->conectar();
+
+    $sql = "INSERT INTO t_quejas(descipcion_queja)VALUES('$desc_queja')";
+
+    $respuesta = mysqli_query($conexion,$sql);
+
+    return $respuesta;
+
+   }
+
 
 }
 
