@@ -285,7 +285,7 @@
                                 </div>
                                 <!-- ///////////////// -->
 
-                                <div class="" id="QuejasDeNuestroServicio">
+                                <div class="ColorQuejas" id="QuejasDeNuestroServicio">
                                         <br><br><br>
                                         <h1 class="text-center mb-4 tipo-Letra-Titulo">Quejas Sobre Nuestro Servicio
                                         </h1>
@@ -294,15 +294,15 @@
                                         <div class="row tipo-letra">
 
                                                 <div class="col">
-                                                        <div class="card border-0">
+                                                        <div class="card border-0 ColorQuejas">
                                                                 <div class="card-body ">
 
                                                                         <div class="form-floating mb-3">
                                                                                 <form action="./procesos/insertar_queja.php" method="post">
-                                                                                        <span class="input-group-text">Favor De Ingresar Su Queja</span>
+                                                                                        <!-- ESTO LO COMENTE <span class="input-group-text">Favor De Ingresar Su Queja</span> -->
                                                                                         <textarea class="form-control" aria-label="With textarea" name="txt_queja"></textarea>
                                                                                         <div class="d-grid gap-2 col-6 mx-auto">
-                                                                                                <button class="btn mt-2 mb-2 fondo-color-indefinido-center">Ingresar Informacion</button>
+                                                                                                <button class="btn mt-4 mb-4 fondo-color-indefinido-center rounded-pill">Ingresar Informacion</button>
                                                                                         </div>
                                                                                 </form>
                                                                         </div>
@@ -353,22 +353,22 @@
                                                 <br><br>
                                         </div>
                                         <!-- ///////////////// -->
-                                        <div class="" id="SeccionIniciar">
+                                        <div class="ColorQuejas" id="SeccionIniciar">
                                                 <br><br><br>
                                                 <h1 class="text-center mb-4 tipo-Letra-Titulo">REGISTRO </h1>
 
-                                                <div class="card  rounded border-0">
+                                                <div class="card ColorQuejas rounded border-0">
                                                         <div class="card-body">
                                                                 <div class="row">
                                                                         <div class="col-sm-6">
-                                                                                <div class="card border-0">
+                                                                                <div class="card border-0 ColorQuejas">
                                                                                         <div class="card-body">
                                                                                                 <img src="./img/LogoDeEmpresa.png" alt="" srcset="">
                                                                                         </div>
                                                                                 </div>
                                                                         </div>
                                                                         <div class="col-sm-6">
-                                                                                <div class="card border-0">
+                                                                                <div class="card border-0 ColorQuejas">
                                                                                         <div class="card-body">
                                                                                                 <div class="text-center">
                                                                                                         <img src="./img/LogoDeEmpresa.png" class="TamañoLogoLoginUno mt-2 mb-2" alt="" srcset="">
@@ -388,7 +388,7 @@
 
                                                                                                 <div class="row">
                                                                                                         <div class="col-sm-6">
-                                                                                                                <div class="card text-center border-0">
+                                                                                                                <div class="card text-center border-0 ColorQuejas">
                                                                                                                         <div class="card-body">
                                                                                                                                 <div class="d-grid gap-2 d-md-block">
                                                                                                                                         <button class="btn btn-primary">Iniciar Sesion</button>
@@ -400,7 +400,7 @@
                                                                                                 </div>
 
                                                                                                 <div class="col-sm-6">
-                                                                                                        <div class="card text-center border-0">
+                                                                                                        <div class="card text-center border-0 ColorQuejas">
                                                                                                                 <div class="card-body">
                                                                                                                         <div class="d-grid gap-2 d-md-block">
                                                                                                                                 <a href="./views/Views-vistaAñadirUsuario.php" class="btn btn-warning" type="button">Registrarse</a>

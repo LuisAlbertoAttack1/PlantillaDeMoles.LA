@@ -369,7 +369,18 @@ height: 7rem;
   background-attachment: fixed;
   background-size: cover;
 }
-
+.ColorQuejas{
+background-color: #edf6f9;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.fondoRecetasVistas{
+  background-image: url(../img/FondoRecetasVista.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 .colorTransparenteCards{
   background:rgba(138,221,45,0);
 }

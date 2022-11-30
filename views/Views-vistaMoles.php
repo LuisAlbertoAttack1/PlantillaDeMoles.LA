@@ -15,7 +15,7 @@
         <script src="../js/all.js"></script>
         <title>Views-vistasMoles.php!</title>    
 </head>
-<body>
+<body class="ImagenFondoDos">
         <div class="container">
                 <div class="row">
                         <div class="col">
@@ -23,19 +23,19 @@
                                 <br>
                                 <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">
-                                                <div class="card shadow p-3 mb-5 bg-body rounded border-0">
-                                                        <div class="card-img fondo-color-indefinido">
+                                                <div class="card colorTransparenteCards rounded border-0">
+                                                        <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
-                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                <h3>Platillos De Moles</h3>
-                                                                <h6>El mole es uno de los platillos más
+                                                                <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                <h3 class="text-white">Platillos De Moles</h3>
+                                                                <h6 class="text-white">El mole es uno de los platillos más
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Ver
                                                                                 Receta</a>
                                                                         <!--R1-->
                                                                 </div>
@@ -43,20 +43,20 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
-                                                        <div class="card-img fondo-color-indefinido-center">
+                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                        <div class="card-img">
 
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
-                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                <h3>Platillos De Moles</h3>
-                                                                <h6>El mole es uno de los platillos más
+                                                                <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                <h3 class="text-white">Platillos De Moles</h3>
+                                                                <h6 class="text-white">El mole es uno de los platillos más
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Ver
                                                                                 Receta</a>
                                                                         <!--R2-->
                                                                 </div>
@@ -64,18 +64,18 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
-                                                        <div class="card-img fondo-color-indefinido">
+                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                        <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
-                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                <h3>Platillos De Moles</h3>
-                                                                <h6>El mole es uno de los platillos más
+                                                                <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                <h3 class="text-white">Platillos De Moles</h3>
+                                                                <h6 class="text-white">El mole es uno de los platillos más
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Ver
                                                                                 Receta</a>
                                                                         <!--R3-->
                                                                 </div>
@@ -87,19 +87,19 @@
                                 <br>
                                 <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">
-                                                <div class="card shadow p-3 mb-5 bg-body rounded border-0">
-                                                        <div class="card-img fondo-color-indefinido">
+                                                <div class="card colorTransparenteCards rounded border-0">
+                                                        <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
-                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                <h3>Platillos De Moles</h3>
-                                                                <h6>El mole es uno de los platillos más
+                                                                <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                <h3 class="text-white">Platillos De Moles</h3>
+                                                                <h6 class="text-white">El mole es uno de los platillos más
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Ver
                                                                                 Receta</a>
                                                                         <!--R1-->
                                                                 </div>
@@ -107,20 +107,20 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
-                                                        <div class="card-img fondo-color-indefinido-center">
+                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                        <div class="card-img">
 
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
-                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                <h3>Platillos De Moles</h3>
-                                                                <h6>El mole es uno de los platillos más
+                                                                <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                <h3 class="text-white">Platillos De Moles</h3>
+                                                                <h6 class="text-white">El mole es uno de los platillos más
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Ver
                                                                                 Receta</a>
                                                                         <!--R2-->
                                                                 </div>
@@ -128,18 +128,18 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
-                                                        <div class="card-img fondo-color-indefinido">
+                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                        <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
-                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                <h3>Platillos De Moles</h3>
-                                                                <h6>El mole es uno de los platillos más
+                                                                <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                <h3 class="text-white">Platillos De Moles</h3>
+                                                                <h6 class="text-white">El mole es uno de los platillos más
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Ver
                                                                                 Receta</a>
                                                                         <!--R3-->
                                                                 </div>
@@ -151,19 +151,19 @@
                                 <br>
                                 <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">
-                                                <div class="card shadow p-3 mb-5 bg-body rounded border-0">
-                                                        <div class="card-img fondo-color-indefinido">
+                                                <div class="card colorTransparenteCards rounded border-0">
+                                                        <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
-                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                <h3>Platillos De Moles</h3>
-                                                                <h6>El mole es uno de los platillos más
+                                                                <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                <h3 class="text-white">Platillos De Moles</h3>
+                                                                <h6 class="text-white">El mole es uno de los platillos más
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Ver
                                                                                 Receta</a>
                                                                         <!--R1-->
                                                                 </div>
@@ -171,20 +171,20 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
-                                                        <div class="card-img fondo-color-indefinido-center">
+                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                        <div class="card-img">
 
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
-                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                <h3>Platillos De Moles</h3>
-                                                                <h6>El mole es uno de los platillos más
+                                                                <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                <h3 class="text-white">Platillos De Moles</h3>
+                                                                <h6 class="text-white">El mole es uno de los platillos más
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Ver
                                                                                 Receta</a>
                                                                         <!--R2-->
                                                                 </div>
@@ -192,18 +192,18 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
-                                                        <div class="card-img fondo-color-indefinido">
+                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                        <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
-                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                <h3>Platillos De Moles</h3>
-                                                                <h6>El mole es uno de los platillos más
+                                                                <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                <h3 class="text-white">Platillos De Moles</h3>
+                                                                <h6 class="text-white">El mole es uno de los platillos más
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Ver
                                                                                 Receta</a>
                                                                         <!--R3-->
                                                                 </div>
@@ -215,19 +215,19 @@
                                 <br>
                                 <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">
-                                                <div class="card shadow p-3 mb-5 bg-body rounded border-0">
-                                                        <div class="card-img fondo-color-indefinido">
+                                                <div class="card colorTransparenteCards rounded border-0">
+                                                        <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
-                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                <h3>Platillos De Moles</h3>
-                                                                <h6>El mole es uno de los platillos más
+                                                                <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                <h3 class="text-white">Platillos De Moles</h3>
+                                                                <h6 class="text-white">El mole es uno de los platillos más
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-6.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Ver
                                                                                 Receta</a>
                                                                         <!--R1-->
                                                                 </div>
@@ -235,20 +235,20 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
-                                                        <div class="card-img fondo-color-indefinido-center">
+                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                        <div class="card-img">
 
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
                                                         </div>
                                                         <div class="card-body text-center tipo-letra">
-                                                                <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                <h3>Platillos De Moles</h3>
-                                                                <h6>El mole es uno de los platillos más
+                                                                <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                <h3 class="text-white">Platillos De Moles</h3>
+                                                                <h6 class="text-white">El mole es uno de los platillos más
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-7.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Ver
                                                                                 Receta</a>
                                                                         <!--R2-->
                                                                 </div>
@@ -256,18 +256,18 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  shadow p-3 mb-5 bg-body rounded border-0">
-                                                        <div class="card-img fondo-color-indefinido">
+                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                        <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                         </div>
-                                                        <div class="card-body text-center tipo-letra">
+                                                        <div class="card-body text-center tipo-letra text-white">
                                                                 <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                <h3>Platillos De Moles</h3>
-                                                                <h6>El mole es uno de los platillos más
+                                                                <h3 class="text-white">Platillos De Moles</h3>
+                                                                <h6 class="text-white">El mole es uno de los platillos más
                                                                         tradicionales de la gastronomía
                                                                         mexicana.</h6>
                                                                 <div class="d-grid gap-2 col-6 mx-auto">
-                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center" type="button">Ver
+                                                                        <a href="../views-Recetas/Views-Receta-8.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Ver
                                                                                 Receta</a>
                                                                         <!--R3-->
                                                                 </div>
