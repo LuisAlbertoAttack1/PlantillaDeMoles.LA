@@ -21,9 +21,9 @@
         <div class="container-fluid">
                 <div class="row">
                         <div class="col-md-12">
-                                <div class="" id="Inicio">
+                                <div class="ImagenEnchiladas" id="Inicio">
                                         <br>
-                                        <h1 class="text-center mt-4 mb-4 tipo-Letra-Titulo">El Mole Es Uno De Los
+                                        <h1 class="text-center mt-4 mb-4 tipo-Letra-Titulo text-white">El Mole Es Uno De Los
                                                 Platillos
                                                 Mas Emblematicos De Mexico</h1>
                                         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
@@ -48,14 +48,14 @@
                                                 </button>
                                         </div>
 
-                                        <h5 class="tipo-letra mt-4 ms-5 me-5 text-center ">La palabra mole proviene del
+                                        <h5 class="tipo-letra mt-4 ms-5 me-5 text-center text-white">La palabra mole proviene del
                                                 vocablo náhuatl
                                                 “molli o mulli” que significa “salsa”; su proceso culinario inicia en la
                                                 época prehispánica donde se encuentra una amplia variedad de alimentos
                                                 elaborados con diferentes tipos de salsas que tienen como ingrediente
                                                 principal la mezcla de chiles, pero se perfeccionó en la época Colonial.
                                         </h5>
-                                        <h5 class="tipo-letra mt-4 ms-5 me-5 ">La palabra mole proviene del vocablo
+                                        <h5 class="tipo-letra mt-4 ms-5 me-5 text-white">La palabra mole proviene del vocablo
                                                 náhuatl
                                                 “molli o mulli” que significa “salsa”; su proceso culinario inicia en la
                                                 época prehispánica donde se encuentra una amplia variedad de alimentos
@@ -67,7 +67,7 @@
                                 </div>
                                 <!-- ///////////////// -->
                                 <div class="ImagenFondo" id="ProductosCategorias">
-                                
+
                                         <br><br>
                                         <h1 class="text-center mb-4 tipo-Letra-Titulo text-white">Productos Que Puedes Adquirir
                                         </h1>
@@ -187,9 +187,9 @@
 
                                                                 </div>
                                                                 <div class="card-body text-center tipo-letra">
-                                                                        <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                        <h3>Platillos De Moles</h3>
-                                                                        <h6>El mole es uno de los platillos más
+                                                                        <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                        <h3 class="text-white">Platillos De Moles</h3>
+                                                                        <h6 class="text-white">El mole es uno de los platillos más
                                                                                 tradicionales de la gastronomía
                                                                                 mexicana.</h6>
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
@@ -207,9 +207,9 @@
 
                                                                 </div>
                                                                 <div class="card-body text-center tipo-letra">
-                                                                        <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                        <h3>Platillos De Moles</h3>
-                                                                        <h6>El mole es uno de los platillos más
+                                                                        <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                        <h3 class="text-white">Platillos De Moles</h3>
+                                                                        <h6 class="text-white">El mole es uno de los platillos más
                                                                                 tradicionales de la gastronomía
                                                                                 mexicana.</h6>
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
@@ -225,8 +225,8 @@
                                                                         <img src="./img/img6.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                                 </div>
                                                                 <div class="card-body text-center tipo-letra">
-                                                                        <h2 class="text-center">RECETAS DE MOLES</h2>
-                                                                        <h3 class="mt-2">Platillos De Mole</h3>
+                                                                        <h2 class="text-center text-white">RECETAS DE MOLES</h2>
+                                                                        <h3 class="mt-2 text-white">Platillos De Mole</h3>
                                                                         <br>
                                                                         <div class="d-grid gap-2 col-6 mx-auto">
                                                                                 <a href="./views/Views-vistasRecetas.php" class="btn mt-2 mb-2 fondo-color-indefinido-center rounded-pill">Opciones De
@@ -240,17 +240,17 @@
 
                                 </div>
                                 <!-- ///////////////// -->
-                                <div class="" id="InformacionSobreLaEmpresa">
-                                        <br><br><br><br><br>
-                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Historia Sobre La Empresa
+                                <div class="ImagenesFondosTres" id="InformacionSobreLaEmpresa">
+                                        <br><br><br>
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo text-white">Historia Sobre La Empresa
                                         </h1>
                                         <br>
                                         <div class="row">
                                                 <div class="col-sm-6">
-                                                        <div class="card border-0">
+                                                        <div class="card border-0 colorTransparenteCards">
                                                                 <div class="card-body tipo-letra">
-                                                                        <h3>Nuestro Origen</h3>
-                                                                        <h4 class="mt-3"> El Mole Tradicional
+                                                                        <h3 class="text-white">Nuestro Origen</h3>
+                                                                        <h4 class="mt-3 text-white"> El Mole Tradicional
                                                                                 Rios® inicia su historia en la década de
                                                                                 los cincuenta en San Luis Potosí, cuando
                                                                                 la Sra. María Pons Nicoux de Degetau
@@ -259,22 +259,29 @@
                                                                                 preparaba en su casa de forma artesanal.
                                                                                 Debido a su gran aceptación, decidió
                                                                                 comercializarlo.</h4>
-                                                                        <a href="./views/Views-vistasHistoria.php" class="btn fondo-color-indefinido-center mt-4 mb-4">Optener
+                                                                        <a href="./views/Views-vistasHistoria.php" class="btn fondo-color-indefinido-center mt-4 mb-4 rounded-pill">Optener
                                                                                 Informacion Completa</a>
                                                                 </div>
                                                         </div>
                                                 </div>
                                                 <div class="col-sm-6">
-                                                        <div class="card border-0">
+                                                        <div class="card colorTransparenteCards border-0">
                                                                 <div class="card-body border-0">
                                                                         <div class="text-center">
-                                                                                <img src="./img/img7.jpg" class="img-fluid tamaño-de-img-card-mole" alt="">
-                                                                        </div>
+
+                                                                                <div class="card rounded-circle border-0 tamaño-contenido-cards">
+                                                                                        <div class="card-body">
+                                                                                        <img src="./img/img7.jpg" class="img-fluid tamaño-de-img-card-mole rounded rounded-circle tamaño-imagen-cards" alt="">
+                                                                       
+                                                                                        </div>
+                                                                                </div>
+
+                                                                                </div>
                                                                 </div>
                                                         </div>
                                                 </div>
                                         </div>
-
+                                        <br><br>
                                 </div>
                                 <!-- ///////////////// -->
 
@@ -288,7 +295,7 @@
 
                                                 <div class="col">
                                                         <div class="card border-0">
-                                                                <div class="card-body color-circulo-transparente">
+                                                                <div class="card-body ">
 
                                                                         <div class="form-floating mb-3">
                                                                                 <form action="./procesos/insertar_queja.php" method="post">
@@ -305,37 +312,37 @@
                                                 </div>
                                                 <br><br>
                                         </div>
-
+                                        </div>
                                         <!-- ///////////////// -->
-                                        <div class="" id="LocalizacionDeEmpresa">
+                                        <div class="ImagenFondoCuatro" id="LocalizacionDeEmpresa">
                                                 <br><br><br>
-                                                <h1 class="text-center mb-4 tipo-Letra-Titulo">Ubicacion Actual De La Empresa
+                                                <h1 class="text-center mb-4 tipo-Letra-Titulo text-white">Ubicacion Actual De La Empresa
                                                 </h1>
                                                 <br>
                                                 <div class="row tipo-letra">
                                                         <div class="col-sm-6 ">
-                                                                <div class="card border-0">
+                                                                <div class="card border-0 colorTransparenteCards">
                                                                         <div class="card-body">
-                                                                                <h5 class="card-title">La Empresa Esta Hubicada
+                                                                                <h5 class="card-title text-white">La Empresa Esta Hubicada
                                                                                         en la:</h5>
-                                                                                <h5> Lorem ipsum dolor, sit amet consectetur
+                                                                                <h5 class="text-white"> Lorem ipsum dolor, sit amet consectetur
                                                                                         adipisicing elit. Inventore quidem hic
                                                                                         tempore nam. Tempore asperiores adipisci
                                                                                         totam quod commodi ut rem eveniet, illum
                                                                                         quo nemo ad, placeat ipsum quisquam
                                                                                         iste.</h5>
-                                                                                <a href="#" class="btn btn-primary mt-4 -b-4">Ingresar
+                                                                                <a href="#" class="btn fondo-color-indefinido-center mt-4 mb-4 rounded-pill">Ingresar
                                                                                         A Mas Informacion</a>
                                                                         </div>
                                                                 </div>
                                                         </div>
                                                         <div class="col-sm-6">
-                                                                <div class="card border-0">
+                                                                <div class="card border-0 colorTransparenteCards">
                                                                         <div class="card-body">
                                                                                 <div class="text-center">
                                                                                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15070.003100773483!2d-99.00076843332705!3d19.21699515426017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1b3d499e89a7%3A0x10d5bd39bc57a44e!2sSan%20Antonio%20Tec%C3%B3mitl%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1665897351747!5m2!1ses-419!2smx" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                                                                         <br>
-                                                                                        <h5 class="text-center">LUGAR DONDE
+                                                                                        <h5 class="text-center text-white mt-4 mb-4">LUGAR DONDE
                                                                                                 PUEDEN VISITAR LA EMPRESA DE
                                                                                                 MOLES TRADICIONALES RIOS</h5>
                                                                                 </div>
@@ -350,7 +357,7 @@
                                                 <br><br><br>
                                                 <h1 class="text-center mb-4 tipo-Letra-Titulo">REGISTRO </h1>
 
-                                                <div class="card shadow p-3 mb-5 bg-body rounded border-0">
+                                                <div class="card  rounded border-0">
                                                         <div class="card-body">
                                                                 <div class="row">
                                                                         <div class="col-sm-6">

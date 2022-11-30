@@ -350,6 +350,34 @@ height: 7rem;
   background-attachment: fixed;
   background-size: cover;
 }
+.ImagenesFondosTres{
+  background-image: url(../img/FondoMoles.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.ImagenFondoCuatro{
+  background-image: url(../img/FondoRestaurante.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+.ImagenEnchiladas{
+  background-image: url(../img/FondoEnchiladas.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 .colorTransparenteCards{
   background:rgba(138,221,45,0);
+}
+.tamaño-imagen-cards{
+  height: 20rem;
+  width: 20rem;
+}
+.tamaño-contenido-cards{
+  height: 22rem;
+  width: 22rem;
 }
