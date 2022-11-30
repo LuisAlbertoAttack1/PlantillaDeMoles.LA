@@ -337,3 +337,19 @@ height: 7rem;
 
   width: 80rem;
 }
+.ImagenFondo{
+  background-image: url(../img/FondoColorCafe.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+.ImagenFondoDos{
+  background-image: url(../img/FondoColorNaranja.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.colorTransparenteCards{
+  background:rgba(138,221,45,0);
+}
