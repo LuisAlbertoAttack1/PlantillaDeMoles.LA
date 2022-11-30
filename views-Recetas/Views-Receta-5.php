@@ -14,32 +14,32 @@
         <title>Views-Receta-5.php!</title>
 </head>
 
-<body>
+<body class="fondoRecetasVistas">
         <div class="container">
                 <div class="row">
                         <div class="col">
-                                <div class="card mt-4 mb-4 tamaño-cards-recetas border-0  shadow-lg p-3 mb-5 bg-body rounded position-absolute top-50 start-50 translate-middle">
+                                <div class="card mt-4 mb-4 tamaño-cards-recetas border-0  colorTransparenteCards rounded position-absolute top-50 start-50 translate-middle">
                                         <!---->
                                         <div class="card-body">
                                                 <br><br><br>
                                                 <!---->
-                                                <h1 class="mt-2 mb-2">Huarache con mole y costilla de res</h1>
-                                                <h5>Ingredientes</h5>
-                                                <h5>PARA 6 PERSONAS</h5>
-                                                <h5> 1 cucharadita Polvo para hornear</h5>
-                                                <h5>Agua la necesaria</h5>
-                                                <h5> 1 taza Aceite</h5>
-                                                <h5>Procedimiento</h5>
-                                                <h5>PARA EL HUARACHE</h5>
-                                                <h5>Coloca en un tazón la masa, el polvo para hornear y un poco de agua y sal.</h5>
-                                                <h5>Amasa hasta que se sienta ligeramente húmeda.</h5>
-                                                <h5>Forma bolitas y haz un hueco.</h5>
-                                                <h5>Añade dos cucharadas de frijoles.</h5>
-                                                <h5>Cierra y dale forma ovalada</h5>
-                                                <h5>Aplana en una máquina para tortillas.</h5>
+                                                <h1 class="mt-2 mb-2 text-white">Huarache con mole y costilla de res</h1>
+                                                <h5 class="text-white">Ingredientes</h5>
+                                                <h5 class="text-white">PARA 6 PERSONAS</h5>
+                                                <h5 class="text-white"> 1 cucharadita Polvo para hornear</h5>
+                                                <h5 class="text-white">Agua la necesaria</h5>
+                                                <h5 class="text-white"> 1 taza Aceite</h5>
+                                                <h5 class="text-white">Procedimiento</h5>
+                                                <h5 class="text-white">PARA EL HUARACHE</h5>
+                                                <h5 class="text-white">Coloca en un tazón la masa, el polvo para hornear y un poco de agua y sal.</h5>
+                                                <h5 class="text-white">Amasa hasta que se sienta ligeramente húmeda.</h5>
+                                                <h5 class="text-white">Forma bolitas y haz un hueco.</h5>
+                                                <h5 class="text-white">Añade dos cucharadas de frijoles.</h5>
+                                                <h5 class="text-white">Cierra y dale forma ovalada</h5>
+                                                <h5 class="text-white">Aplana en una máquina para tortillas.</h5>
                                                 <!---->
                                                 <div class="d-grid gap-2 col-6 mx-auto mt-4 mb-4">
-                                                        <a href="../index.php" class="btn btn-warning" type="button">Regresar</a>
+                                                        <a href="../index.php" class="btn btn-warning rounded-pill">Regresar</a>
                                                 </div>
                                                 <!---->
                                         </div>

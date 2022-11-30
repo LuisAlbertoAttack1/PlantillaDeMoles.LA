@@ -16,43 +16,43 @@
         <title>Views-Receta-2.php!</title>
 </head>
 
-<body>
+<body  class="fondoRecetasVistas">
 <div class="container">
                 <div class="row">
                         <div class="col">
-                                <div class="card tamaño-cards-recetas border-0  shadow-lg p-3 mb-5 bg-body rounded position-absolute top-50 start-50 translate-middle">
+                                <div class="card tamaño-cards-recetas border-0  colorTransparenteCards rounded position-absolute top-50 start-50 translate-middle">
                                         <!---->
                                         <div class="card-body">
                                                 <br><br><br><br><br><br><br><br><br>
-                                                <h1 class="text-center">Chilaquiles de mole</h1>
-                                                <h5 class="mt-2 mb-2">Si quieres una receta completamente a las demás, sal de lo cotidiano y prepara esta deliciosa receta de chilaquiles de mole. ¡sigue nuestra receta!</h5>
-                                                <h5 class="mt-2 mb-2"> 6 Chiles pasilla</h5>
-                                                <h5 class="mt-2 mb-2"> 1/2 Cebolla</h5>
-                                                <h5 class="mt-2 mb-2"> 2 dientes Aceite de ajonjolí</h5>
-                                                <h5 class="mt-2 mb-2">2 jitomates</h5>
-                                                <h5 class="mt-2 mb-2"> 1 taza cacahuates</h5>
-                                                <h5 class="mt-2 mb-2"> 1/2 taza Almendras</h5>
-                                                <h5 class="mt-2 mb-2"> 1 taza cacahuates</h5>
-                                                <h5 class="mt-2 mb-2"> 1/2 Plátano Macho frito</h5>
-                                                <h5 class="mt-2 mb-2"> 1 pizca Comino</h5>
-                                                <h5 class="mt-2 mb-2"> 1 barra Chocolate de mesa</h5>
-                                                <h5 class="mt-2 mb-2"> 1 litro Caldo de pollo</h5>
+                                                <h1 class="text-center text-white">Chilaquiles de mole</h1>
+                                                <h5 class="mt-2 mb-2 text-white">Si quieres una receta completamente a las demás, sal de lo cotidiano y prepara esta deliciosa receta de chilaquiles de mole. ¡sigue nuestra receta!</h5>
+                                                <h5 class="mt-2 mb-2 text-white"> 6 Chiles pasilla</h5>
+                                                <h5 class="mt-2 mb-2 text-white"> 1/2 Cebolla</h5>
+                                                <h5 class="mt-2 mb-2 text-white"> 2 dientes Aceite de ajonjolí</h5>
+                                                <h5 class="mt-2 mb-2 text-white">2 jitomates</h5>
+                                                <h5 class="mt-2 mb-2 text-white"> 1 taza cacahuates</h5>
+                                                <h5 class="mt-2 mb-2 text-white"> 1/2 taza Almendras</h5>
+                                                <h5 class="mt-2 mb-2 text-white"> 1 taza cacahuates</h5>
+                                                <h5 class="mt-2 mb-2 text-white"> 1/2 Plátano Macho frito</h5>
+                                                <h5 class="mt-2 mb-2 text-white"> 1 pizca Comino</h5>
+                                                <h5 class="mt-2 mb-2 text-white"> 1 barra Chocolate de mesa</h5>
+                                                <h5 class="mt-2 mb-2 text-white"> 1 litro Caldo de pollo</h5>
                                                 <!---->
-                                                <h5 class="mt-2 mb-2">Procedimiento</h5>
-                                                <h5 class="mt-2 mb-2">DESVENA los chiles. ACITRONA la cebolla y el ajo.</h5>
-                                                <h5 class="mt-2 mb-2">AGREGA los chiles y el jitomate.</h5>
-                                                <h5 class="mt-2 mb-2">SOFRÍE por 10 minutos.</h5>
-                                                <h5 class="mt-2 mb-2">AÑADE los cacahuates, las almendras y el comino.</h5>
-                                                <h5 class="mt-2 mb-2">DORA por 5 minutos.</h5>
-                                                <h5 class="mt-2 mb-2">VIERTE el caldo de pollo y sazona.</h5>
-                                                <h5 class="mt-2 mb-2">LICÚA y regresa a la cacerola.</h5>
-                                                <h5 class="mt-2 mb-2">AÑADE el chocolate y rectifica sazón.</h5>
-                                                <h5 class="mt-2 mb-2">COCINA hasta que espese.</h5>
-                                                <h5 class="mt-2 mb-2">AGREGA los totopos sobre el mole.</h5>
-                                                <h5 class="mt-2 mb-2">SIRVE y acompaña con la crema, el queso y la cebolla.</h5>
+                                                <h5 class="mt-2 mb-2 text-white">Procedimiento</h5>
+                                                <h5 class="mt-2 mb-2 text-white">DESVENA los chiles. ACITRONA la cebolla y el ajo.</h5>
+                                                <h5 class="mt-2 mb-2 text-white">AGREGA los chiles y el jitomate.</h5>
+                                                <h5 class="mt-2 mb-2 text-white">SOFRÍE por 10 minutos.</h5>
+                                                <h5 class="mt-2 mb-2 text-white">AÑADE los cacahuates, las almendras y el comino.</h5>
+                                                <h5 class="mt-2 mb-2 text-white">DORA por 5 minutos.</h5>
+                                                <h5 class="mt-2 mb-2 text-white">VIERTE el caldo de pollo y sazona.</h5>
+                                                <h5 class="mt-2 mb-2 text-white">LICÚA y regresa a la cacerola.</h5>
+                                                <h5 class="mt-2 mb-2 text-white">AÑADE el chocolate y rectifica sazón.</h5>
+                                                <h5 class="mt-2 mb-2 text-white">COCINA hasta que espese.</h5>
+                                                <h5 class="mt-2 mb-2 text-white">AGREGA los totopos sobre el mole.</h5>
+                                                <h5 class="mt-2 mb-2 text-white">SIRVE y acompaña con la crema, el queso y la cebolla.</h5>
                                                 <!---->
                                                 <div class="d-grid gap-2 col-6 mx-auto mt-4 mb-4">
-                                                        <a href="../index.php" class="btn btn-warning" type="button">Regresar</a>
+                                                        <a href="../index.php" class="btn btn-warning rounded-pill">Regresar</a>
                                                 </div>
                                                 <!---->
                                         </div>

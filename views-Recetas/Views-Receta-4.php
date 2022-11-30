@@ -14,30 +14,30 @@
         <title>Views-Receta-4.php!</title>
 </head>
 
-<body>
+<body class="fondoRecetasVistas">
         <div class="container">
                 <div class="row">
                         <div class="col">
-                                <div class="card mt-4 mb-4 tamaño-cards-recetas border-0  shadow-lg p-3 mb-5 bg-body rounded position-absolute top-50 start-50 translate-middle">
+                                <div class="card mt-4 mb-4 tamaño-cards-recetas border-0 colorTransparenteCards rounded position-absolute top-50 start-50 translate-middle">
                                         <!---->
                                         <div class="card-body">
                                                 <br><br><br>
                                                 <!---->
-                                                <h1 class="mt-2 mb-2">Mole de amaranto con pollo</h1>
-                                                <h5>PARA 4 PERSONAS</h5>
-                                                <h5> 3 Chiles guajillo , desvenados</h5>
-                                                <h5>3 Chiles pasilla , desvenados</h5>
-                                                <h5>3 Chiles chipotle secos, desvenados</h5>
-                                                <h5>2 tazas Amaranto tostado</h5>
-                                                <h5> 1/4 taza Ajonjolí tostado</h5>
-                                                <h1>Procedimiento</h1>
-                                                <h5>ASA los chiles, el jitomate y la cebolla en un comal. Asa en una sartén el amaranto y el ajonjolí.</h5>
-                                                <h5>LICÚA hasta obtener una pasta, en caso necesario agrega caldo de pollo.</h5>
-                                                <h5>CALIENTA el aceite y sazona el mole. Hierve sin dejar de mover y vierte más caldo. Salpimienta.</h5>
-                                                <h5>SALPIMIENTA cada pechuga y rellena con los bastones de queso. Enrolla.</h5>
+                                                <h1 class="mt-2 mb-2 text-white">Mole de amaranto con pollo</h1>
+                                                <h5 class="text-white">PARA 4 PERSONAS</h5>
+                                                <h5 class="text-white"> 3 Chiles guajillo , desvenados</h5>
+                                                <h5 class="text-white">3 Chiles pasilla , desvenados</h5>
+                                                <h5 class="text-white">3 Chiles chipotle secos, desvenados</h5>
+                                                <h5 class="text-white">2 tazas Amaranto tostado</h5>
+                                                <h5 class="text-white"> 1/4 taza Ajonjolí tostado</h5>
+                                                <h1 class="text-white">Procedimiento</h1>
+                                                <h5 class="text-white">ASA los chiles, el jitomate y la cebolla en un comal. Asa en una sartén el amaranto y el ajonjolí.</h5>
+                                                <h5 class="text-white">LICÚA hasta obtener una pasta, en caso necesario agrega caldo de pollo.</h5>
+                                                <h5 class="text-white">CALIENTA el aceite y sazona el mole. Hierve sin dejar de mover y vierte más caldo. Salpimienta.</h5>
+                                                <h5 class="text-white">SALPIMIENTA cada pechuga y rellena con los bastones de queso. Enrolla.</h5>
                                                 <!---->
                                                 <div class="d-grid gap-2 col-6 mx-auto mt-4 mb-4">
-                                                        <a href="../index.php" class="btn btn-warning" type="button">Regresar</a>
+                                                        <a href="../index.php" class="btn btn-warning rounded-pill">Regresar</a>
                                                 </div>
                                                 <!---->
                                         </div>
