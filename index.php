@@ -70,7 +70,7 @@
                                 <div class="ImagenFondo" id="ProductosCategorias">
 
                                         <br><br>
-                                        <h1 class="text-center mb-4 tipo-Letra-Titulo text-white"  data-aos="slide-up" data-aos-duration="4000">Productos Que Puedes Adquirir
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo text-white" data-aos="slide-up" data-aos-duration="4000">Productos Que Puedes Adquirir
                                         </h1>
                                         <h3></h3>
                                         <!----------------------->
@@ -116,12 +116,12 @@
                                 <div class="ImagenFondoDos" id="Recetas">
 
                                         <br><br>
-                                        <h1 class="text-center mb-4 tipo-Letra-Titulo text-white">Platillos Que Puedes Realizar Con
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo text-white" data-aos="slide-up" data-aos-duration="4000">Platillos Que Puedes Realizar Con
                                                 Los Productos Que Nos Compran
                                         </h1>
                                         <div class="row row-cols-1 row-cols-md-3 g-6 mt-4 mb-4">
                                                 <div class="col">
-                                                        <div class="card colorTransparenteCards rounded border-0">
+                                                        <div class="card colorTransparenteCards rounded border-0" data-aos="zoom-out" data-aos-duration="4000">
                                                                 <div class="card-img">
                                                                         <img src="./img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
@@ -141,7 +141,7 @@
                                                         </div>
                                                 </div>
                                                 <div class="col">
-                                                        <div class="card  colorTransparenteCards rounded border-0">
+                                                        <div class="card  colorTransparenteCards rounded border-0" data-aos="zoom-out" data-aos-duration="4000">
                                                                 <div class="card-img">
 
                                                                         <img src="./img/img2.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
@@ -161,7 +161,7 @@
                                                         </div>
                                                 </div>
                                                 <div class="col">
-                                                        <div class="card colorTransparenteCards rounded border-0">
+                                                        <div class="card colorTransparenteCards rounded border-0" data-aos="zoom-out" data-aos-duration="4000">
                                                                 <div class="card-img">
                                                                         <img src="./img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                                 </div>
@@ -180,9 +180,9 @@
                                                 </div>
                                         </div>
                                         <!--SEPARACION--->
-                                        <div class="row row-cols-1 row-cols-md-3 g-6 mt-4 mb-4">
+                                        <div class="row row-cols-1 row-cols-md-3 g-6 mt-4 mb-4" data-aos="zoom-out" data-aos-duration="4000">
                                                 <div class="col">
-                                                        <div class="card colorTransparenteCards rounded border-0">
+                                                        <div class="card colorTransparenteCards rounded border-0" data-aos="zoom-out" data-aos-duration="4000">
                                                                 <div class="card-img">
                                                                         <img src="./img/img1.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
@@ -201,7 +201,7 @@
                                                         </div>
                                                 </div>
                                                 <div class="col">
-                                                        <div class="card  colorTransparenteCards rounded border-0">
+                                                        <div class="card  colorTransparenteCards rounded border-0" data-aos="zoom-out" data-aos-duration="4000">
                                                                 <div class="card-img">
 
                                                                         <img src="./img/img2.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
@@ -221,7 +221,7 @@
                                                         </div>
                                                 </div>
                                                 <div class="col">
-                                                        <div class="card  colorTransparenteCards rounded border-0">
+                                                        <div class="card  colorTransparenteCards rounded border-0" data-aos="zoom-out" data-aos-duration="4000">
                                                                 <div class="card-img">
                                                                         <img src="./img/img6.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                                 </div>
@@ -243,7 +243,7 @@
                                 <!-- ///////////////// -->
                                 <div class="ImagenesFondosTres" id="InformacionSobreLaEmpresa">
                                         <br><br><br>
-                                        <h1 class="text-center mb-4 tipo-Letra-Titulo text-white">Historia Sobre La Empresa
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo text-white" data-aos="slide-up" data-aos-duration="4000">Historia Sobre La Empresa
                                         </h1>
                                         <br>
                                         <div class="row">
@@ -288,7 +288,7 @@
 
                                 <div class="ColorQuejas" id="QuejasDeNuestroServicio">
                                         <br><br><br>
-                                        <h1 class="text-center mb-4 tipo-Letra-Titulo">Quejas Sobre Nuestro Servicio
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo" data-aos="slide-up" data-aos-duration="4000">Quejas Sobre Nuestro Servicio
                                         </h1>
                                         <br>
 
@@ -317,7 +317,7 @@
                                         <!-- ///////////////// -->
                                         <div class="ImagenFondoCuatro" id="LocalizacionDeEmpresa">
                                                 <br><br><br>
-                                                <h1 class="text-center mb-4 tipo-Letra-Titulo text-white">Ubicacion Actual De La Empresa
+                                                <h1 class="text-center mb-4 tipo-Letra-Titulo text-white" data-aos="slide-up" data-aos-duration="4000">Ubicacion Actual De La Empresa
                                                 </h1>
                                                 <br>
                                                 <div class="row tipo-letra">
@@ -356,7 +356,7 @@
                                         <!-- ///////////////// -->
                                         <div class="ColorQuejas" id="SeccionIniciar">
                                                 <br><br><br>
-                                                <h1 class="text-center mb-4 tipo-Letra-Titulo">REGISTRO </h1>
+                                                <h1 class="text-center mb-4 tipo-Letra-Titulo" data-aos="slide-up" data-aos-duration="4000">REGISTRO </h1>
 
                                                 <div class="card ColorQuejas rounded border-0">
                                                         <div class="card-body">
