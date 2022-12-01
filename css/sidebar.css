@@ -310,9 +310,7 @@ body {
 }
 
 
-.fondoColorLoginCreacionDeUser{
-  background-color: #ffd60a;
-}
+
 .tamañoDeLogoLogin{
 
 width: 20rem;
@@ -376,6 +374,12 @@ background-color: #edf6f9;
   background-size: cover;
 }
 .fondoRecetasVistas{
+  background-image: url(../img/FondoRecetasVista.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.fondoColorLoginCreacionDeUser{
   background-image: url(../img/FondoRecetasVista.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;

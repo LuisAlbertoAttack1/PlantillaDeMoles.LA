@@ -30,18 +30,8 @@
                                                                 row-cols-md-2
                                                                 g-4">
                                                         <div class="col">
-                                                                <div class="card
-                                                                                border-0">
-                                                                        <div class="text-center">
-                                                                                <img src="../img/LogoDeEmpresa.png"
-                                                                                        class="tamañoDeLogoLogin"
-                                                                                        alt="...">
-                                                                        </div>
-                                                                        <div class="card-body">
-                                                                        </div>
-                                                                </div>
+                                                             
                                                         </div>
-
                                                         <div class="col">
 
                                                                 <div class="card

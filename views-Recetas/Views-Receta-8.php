@@ -16,33 +16,33 @@
         <title>Views-Receta-8.php!</title>
 </head>
 
-<body>
+<body class="fondoRecetasVistas">
      
 <div class="container">
                 <div class="row">
                         <div class="col">
-                                <div class="card mt-4 mb-4 tamaño-cards-recetas border-0  shadow-lg p-3 mb-5 bg-body rounded position-absolute top-50 start-50 translate-middle">
+                                <div class="card mt-4 mb-4 tamaño-cards-recetas border-0  colorTransparenteCards rounded position-absolute top-50 start-50 translate-middle">
                                         <!---->
                                         <div class="card-body">
                                                 <br><br><br>
                                                 <!---->
-                                                <h1 class="mt-2 mb-2">Pollo con mole</h1>
-                                           <h5>Ingredientes</h5>
-                                           <h5>IngredientesPARA 4 PERSONAS</h5>
-                                           <h5> 1 pechuga de pollo</h5>
-                                           <h5> 4 cucharadas de Manteca</h5>
-                                           <h5> 2 Hojas de laurel</h5>
-                                           <h5> 3 Dientes de ajo</h5>
-                                           <h5> 1/2 Cebolla</h5>
-                                           <h5> 1 cucharada de Orégano seco</h5>
-                                           <h1>Procedimiento</h1>
-                                           <h5>CUECE la pechuga de pollo en una olla con 2 litros de agua, las hojas de laurel, un diente de ajo, 1/4 de cebolla, una pizca de orégano y sal al gusto, durante 30 minutos o hasta que esté cocido. Cuela y reserva el caldo. Deshebra la pechuga y reserva.</h5>
-                                           <h5>RETIRA las semillas de los chiles y reserva. Calienta en una cazuela tres cucharadas de manteca y dora los chiles por 5 minutos a fuego bajo, sin dejar de mover. Escurre y reserva.</h5>
-                                           <h5>SOFRÍE en la misma cazuela las semillas de los chiles, el ajonjolí, los dientes de ajo restantes, la raja de canela y los clavos de olor, dora por 4 minutos; retira del fuego los ingredientes.</h5>
-                                           <h5>DORA finalmente las tortillas y reserva.</h5>
+                                                <h1 class="mt-2 mb-2 text-white">Pollo con mole</h1>
+                                           <h5 class="text-white">Ingredientes</h5>
+                                           <h5 class="text-white">IngredientesPARA 4 PERSONAS</h5>
+                                           <h5 class="text-white"> 1 pechuga de pollo</h5>
+                                           <h5 class="text-white"> 4 cucharadas de Manteca</h5>
+                                           <h5 class="text-white"> 2 Hojas de laurel</h5>
+                                           <h5 class="text-white"> 3 Dientes de ajo</h5>
+                                           <h5 class="text-white"> 1/2 Cebolla</h5>
+                                           <h5 class="text-white"> 1 cucharada de Orégano seco</h5>
+                                           <h1 class="text-white">Procedimiento</h1>
+                                           <h5 class="text-white">CUECE la pechuga de pollo en una olla con 2 litros de agua, las hojas de laurel, un diente de ajo, 1/4 de cebolla, una pizca de orégano y sal al gusto, durante 30 minutos o hasta que esté cocido. Cuela y reserva el caldo. Deshebra la pechuga y reserva.</h5>
+                                           <h5 class="text-white">RETIRA las semillas de los chiles y reserva. Calienta en una cazuela tres cucharadas de manteca y dora los chiles por 5 minutos a fuego bajo, sin dejar de mover. Escurre y reserva.</h5>
+                                           <h5 class="text-white">SOFRÍE en la misma cazuela las semillas de los chiles, el ajonjolí, los dientes de ajo restantes, la raja de canela y los clavos de olor, dora por 4 minutos; retira del fuego los ingredientes.</h5>
+                                           <h5 class="text-white">DORA finalmente las tortillas y reserva.</h5>
                                                 <!---->
                                                 <div class="d-grid gap-2 col-6 mx-auto mt-4 mb-4">
-                                                        <a href="../views/Views-vistasRecetas.php" class="btn btn-warning" type="button">Regresar</a>
+                                                        <a href="../views/Views-vistasRecetas.php" class="btn btn-warning rounded-pill">Regresar</a>
                                                 </div>
                                                 <!---->
                                         </div>

@@ -9,6 +9,7 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
         <link rel="stylesheet" href="css/all.css">
         <link rel="stylesheet" href="css/sidebar.css">
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
         <script src="js/jquery.js"></script>
         <script src="js/all.js"></script>
         <script src="./js/mascaraDeCarga/jquery.blockUI.js"></script>
@@ -69,13 +70,13 @@
                                 <div class="ImagenFondo" id="ProductosCategorias">
 
                                         <br><br>
-                                        <h1 class="text-center mb-4 tipo-Letra-Titulo text-white">Productos Que Puedes Adquirir
+                                        <h1 class="text-center mb-4 tipo-Letra-Titulo text-white"  data-aos="slide-up" data-aos-duration="4000">Productos Que Puedes Adquirir
                                         </h1>
                                         <h3></h3>
                                         <!----------------------->
                                         <div class="row row-cols-1 row-cols-md-2 g-4 mt-2 mb-2">
                                                 <div class="col-sm-6">
-                                                        <div class="card colorTransparenteCards rounded border-0">
+                                                        <div class="card colorTransparenteCards rounded border-0" data-aos="fade-right" data-aos-duration="4000">
                                                                 <div class="card-img text-center">
                                                                         <img src="./img/IMG3.png" class="img-fluid tamaño-img-primero mt-4 mb-4 mx-auto d-block rounded" alt="No Encuentro Tu Img">
                                                                 </div>
@@ -90,7 +91,7 @@
                                                         </div>
                                                 </div>
                                                 <div class="col-sm-6">
-                                                        <div class="card colorTransparenteCards rounded border-0">
+                                                        <div class="card colorTransparenteCards rounded border-0" data-aos="fade-left" data-aos-duration="4000">
                                                                 <div class="card-img ">
                                                                         <div class="card-img text-center">
                                                                                 <img src="./img/img5.png" class="img-fluid tamaño-img-primero mt-4 mb-4 mx-auto d-block rounded" alt="No Encuentro Tu Img">
@@ -431,8 +432,11 @@
         </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
         <script src="js/controller_navbar.js"></script>
-
-
+<!------>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
         <!------>
         <script type="text/javascript">
                 $(document).ready(function() {
