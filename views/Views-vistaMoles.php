@@ -12,6 +12,7 @@
                 crossorigin="anonymous">
         <link rel="stylesheet" href="../css/sidebar.css">
         <link rel="stylesheet" href="../css/all.css">
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
         <script src="../js/all.js"></script>
         <title>Views-vistasMoles.php!</title>    
 </head>
@@ -23,7 +24,7 @@
                                 <br>
                                 <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">
-                                                <div class="card colorTransparenteCards rounded border-0">
+                                                <div class="card colorTransparenteCards rounded border-0" data-aos="zoom-in" data-aos-duration="4000">
                                                         <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
@@ -43,7 +44,7 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                <div class="card  colorTransparenteCards rounded border-0" data-aos="zoom-in" data-aos-duration="4000">
                                                         <div class="card-img">
 
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
@@ -64,7 +65,7 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                <div class="card  colorTransparenteCards rounded border-0" data-aos="zoom-in" data-aos-duration="4000">
                                                         <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                         </div>
@@ -87,7 +88,7 @@
                                 <br>
                                 <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">
-                                                <div class="card colorTransparenteCards rounded border-0">
+                                                <div class="card colorTransparenteCards rounded border-0" data-aos="zoom-in" data-aos-duration="4000">
                                                         <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
@@ -107,7 +108,7 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                <div class="card  colorTransparenteCards rounded border-0" data-aos="zoom-in" data-aos-duration="4000">
                                                         <div class="card-img">
 
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
@@ -128,7 +129,7 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                <div class="card  colorTransparenteCards rounded border-0" data-aos="zoom-in" data-aos-duration="4000">
                                                         <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                         </div>
@@ -151,7 +152,7 @@
                                 <br>
                                 <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">
-                                                <div class="card colorTransparenteCards rounded border-0">
+                                                <div class="card colorTransparenteCards rounded border-0" data-aos="zoom-in" data-aos-duration="4000">
                                                         <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
@@ -171,7 +172,7 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                <div class="card  colorTransparenteCards rounded border-0" data-aos="zoom-in" data-aos-duration="4000">
                                                         <div class="card-img">
 
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
@@ -192,7 +193,7 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                <div class="card  colorTransparenteCards rounded border-0" data-aos="zoom-in" data-aos-duration="4000">
                                                         <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                         </div>
@@ -215,7 +216,7 @@
                                 <br>
                                 <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">
-                                                <div class="card colorTransparenteCards rounded border-0">
+                                                <div class="card colorTransparenteCards rounded border-0" data-aos="zoom-in" data-aos-duration="4000">
                                                         <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
 
@@ -235,7 +236,7 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                <div class="card  colorTransparenteCards rounded border-0" data-aos="zoom-in" data-aos-duration="4000">
                                                         <div class="card-img">
 
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
@@ -256,7 +257,7 @@
                                                 </div>
                                         </div>
                                         <div class="col">
-                                                <div class="card  colorTransparenteCards rounded border-0">
+                                                <div class="card  colorTransparenteCards rounded border-0" data-aos="zoom-in" data-aos-duration="4000">
                                                         <div class="card-img">
                                                                 <img src="../img/ImgVasos.png" class="img-fluid tamaño-De-Tres-Img mt-4 mb-4 mx-auto d-block" alt="No Encuentro Tu Img">
                                                         </div>
@@ -281,6 +282,14 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
                 integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
                 crossorigin="anonymous"></script>
+
+                <!---->
+                <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+
+                <!---->
 
 </body>
 
