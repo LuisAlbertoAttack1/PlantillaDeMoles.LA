@@ -274,6 +274,14 @@
                                                                         <!--R3-->
                                                                 </div>
                                                         </div>
+                                                        <div class="d-grid gap-2 col-6 mx-auto">
+                                    <div class="text-center mt-4 mb-4">
+                                        <a href="../index.php"
+                                            class="btn mt-4 mb-4 fondo-color-indefinido-center tamaño-BotonRegreso-A-Casa rounded-circle"><img
+                                                src="../img/Icono.png" class="tamaño-imagen-boton mt-2" alt=""
+                                                srcset=""></a>
+                                    </div>
+                                </div>
                                                 </div>
                                         </div>
                                 </div>

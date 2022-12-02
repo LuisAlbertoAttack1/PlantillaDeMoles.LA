@@ -341,7 +341,7 @@
                                                                 <div class="card border-0 colorTransparenteCards" data-aos="fade-left" data-aos-duration="4000">
                                                                         <div class="card-body">
                                                                                 <div class="text-center">
-                                                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15070.003100773483!2d-99.00076843332705!3d19.21699515426017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1b3d499e89a7%3A0x10d5bd39bc57a44e!2sSan%20Antonio%20Tec%C3%B3mitl%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1665897351747!5m2!1ses-419!2smx" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15070.003100773483!2d-99.00076843332705!3d19.21699515426017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1b3d499e89a7%3A0x10d5bd39bc57a44e!2sSan%20Antonio%20Tec%C3%B3mitl%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1665897351747!5m2!1ses-419!2smx" class="img-fluid" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                                                                         <br>
                                                                                         <h5 class="text-center text-white mt-4 mb-4">LUGAR DONDE
                                                                                                 PUEDEN VISITAR LA EMPRESA DE
@@ -364,7 +364,7 @@
                                                                         <div class="col-sm-6">
                                                                                 <div class="card border-0 ColorQuejas">
                                                                                         <div class="card-body">
-                                                                                                <img src="./img/LogoDeEmpresa.png" alt="" srcset="">
+                                                                                                <img src="./img/LogoDeEmpresa.png" class="img-fluid" alt="" srcset="">
                                                                                         </div>
                                                                                 </div>
                                                                         </div>
@@ -372,7 +372,7 @@
                                                                                 <div class="card border-0 ColorQuejas">
                                                                                         <div class="card-body">
                                                                                                 <div class="text-center">
-                                                                                                        <img src="./img/LogoDeEmpresa.png" class="TamañoLogoLoginUno mt-2 mb-2" alt="" srcset="">
+                                                                                                        <img src="./img/LogoDeEmpresa.png" class="img-fluid TamañoLogoLoginUno mt-2 mb-2" alt="" srcset="">
                                                                                                 </div>
                                                                                                 <h2 class="text-center tipo-letra">
                                                                                                         Moles Tradicionales Rios
