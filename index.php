@@ -445,7 +445,7 @@
 
                 function mascaraObloqueo() {
                         $.blockUI({
-                                message: ' <img src="./img/image.png" width="300" height="300"> <br> Creador Fernando Lujan',
+                                message: ' <img src="./img/image.png" class="img-fluid" width="300" height="300"> <br> Creador Fernando Lujan',
 
                                 css: {
                                         border: 'none',
