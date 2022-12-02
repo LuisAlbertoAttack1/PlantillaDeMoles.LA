@@ -21,7 +21,8 @@
         <div class="container">
                 <div class="row">
                         <div class="col">
-                                <h2 class="text-center">Hola ya estas dentro de la seccion de botanas</h2>
+                                <br><br>
+                                <h2 class="text-center text-white tipo-letra">Hola ya estas dentro de la seccion de botanas</h2>
                                 <br>
                                 <div class="row row-cols-1 row-cols-md-3 g-6">
                                         <div class="col">

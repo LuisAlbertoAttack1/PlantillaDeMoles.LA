@@ -20,7 +20,8 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h2 class="text-center">Informacion Sobre Contenido De Moles</h2>
+                <br><br>
+                <h2 class="text-center text-white tipo-letra">Informacion Sobre Contenido De Moles</h2>
                 <br>
                 <div class="row row-cols-1 row-cols-md-3 g-6">
                     <div class="col">
@@ -329,6 +330,7 @@
                                                 srcset=""></a>
                                     </div>
                                 </div>
+                                
                             </div>
                         </div>
                     </div>
