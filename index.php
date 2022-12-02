@@ -22,7 +22,7 @@
         <div class="container-fluid">
                 <div class="row">
                         <div class="col-md-12">
-                                <div class="ImagenEnchiladas" id="Inicio">
+                                <div class="ImagenEnchiladas img-fluid" id="Inicio">
                                         <br>
                                         <h1 class="text-center mt-4 mb-4 tipo-Letra-Titulo text-white">El Mole Es Uno De Los
                                                 Platillos
