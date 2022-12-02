@@ -272,13 +272,28 @@
                                                                                 Receta</a>
                                                                         <!--R3-->
                                                                 </div>
+
+                                                                <div class="d-grid gap-2 col-6 mx-auto"> 
+                                                               <div class="text-center">
+                                                               <button class="btn mt-2 mb-2 fondo-color-indefinido-center tamaño-BotonRegreso-A-Casa rounded-circle"><img src="../img/Icono.png" class="tamaño-imagen-boton" alt="" srcset=""></button>    
+                                                               </div>
+                                                                </div>
                                                         </div>
                                                 </div>
                                         </div>
                                 </div>
                         </div>
+                     
                 </div>
+                 
         </div>
+
+                                  <!---->
+                   <!-- <div class="">
+                       
+                        </div> -->
+                        <!---->
+     
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
                 integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
                 crossorigin="anonymous"></script>
