@@ -384,6 +384,7 @@ background-color: #edf6f9;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  
 }
 .colorTransparenteCards{
   background:rgba(138,221,45,0);
@@ -395,4 +396,12 @@ background-color: #edf6f9;
 .tamaño-contenido-cards{
   height: 22rem;
   width: 22rem;
+}
+.tamaño-BotonRegreso-A-Casa{
+  height: 5rem;
+  width: 5rem;
+}
+.tamaño-imagen-boton{
+  height: 3rem;
+  width: 3rem;
 }

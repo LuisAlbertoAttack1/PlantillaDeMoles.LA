@@ -27,7 +27,7 @@ session_start();
         <div class="container-fluid">
                 <div class="row">
                         <div class="col-md-12">
-                                <div class="ImagenEnchiladas" id="Inicio">
+                                <div class="ImagenEnchiladas img-fluid" id="Inicio">
                                         <br>
                                         <h1 class="text-center mt-4 mb-4 tipo-Letra-Titulo text-white">El Mole Es Uno De Los
                                                 Platillos
@@ -253,7 +253,7 @@ session_start();
                                         <br>
                                         <div class="row">
                                                 <div class="col-sm-6">
-                                                        <div class="card border-0 colorTransparenteCards">
+                                                        <div class="card border-0 colorTransparenteCards" data-aos="fade-right" data-aos-duration="4000">
                                                                 <div class="card-body tipo-letra">
                                                                         <h3 class="text-white">Nuestro Origen</h3>
                                                                         <h4 class="mt-3 text-white"> El Mole Tradicional
@@ -271,7 +271,7 @@ session_start();
                                                         </div>
                                                 </div>
                                                 <div class="col-sm-6">
-                                                        <div class="card colorTransparenteCards border-0">
+                                                        <div class="card colorTransparenteCards border-0" data-aos="fade-left" data-aos-duration="4000">
                                                                 <div class="card-body border-0">
                                                                         <div class="text-center">
 
@@ -282,7 +282,7 @@ session_start();
                                                                                         </div>
                                                                                 </div>
 
-                                                                                </div>
+                                                                         </div>
                                                                 </div>
                                                         </div>
                                                 </div>
@@ -300,7 +300,7 @@ session_start();
                                         <div class="row tipo-letra">
 
                                                 <div class="col">
-                                                        <div class="card border-0 ColorQuejas">
+                                                        <div class="card border-0 ColorQuejas" data-aos="zoom-in-up" data-aos-duration="4000">
                                                                 <div class="card-body ">
 
                                                                         <div class="form-floating mb-3">
@@ -327,7 +327,7 @@ session_start();
                                                 <br>
                                                 <div class="row tipo-letra">
                                                         <div class="col-sm-6 ">
-                                                                <div class="card border-0 colorTransparenteCards">
+                                                                <div class="card border-0 colorTransparenteCards" data-aos="fade-right" data-aos-duration="4000">
                                                                         <div class="card-body">
                                                                                 <h5 class="card-title text-white">La Empresa Esta Hubicada
                                                                                         en la:</h5>
@@ -343,10 +343,10 @@ session_start();
                                                                 </div>
                                                         </div>
                                                         <div class="col-sm-6">
-                                                                <div class="card border-0 colorTransparenteCards">
+                                                                <div class="card border-0 colorTransparenteCards" data-aos="fade-left" data-aos-duration="4000">
                                                                         <div class="card-body">
                                                                                 <div class="text-center">
-                                                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15070.003100773483!2d-99.00076843332705!3d19.21699515426017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1b3d499e89a7%3A0x10d5bd39bc57a44e!2sSan%20Antonio%20Tec%C3%B3mitl%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1665897351747!5m2!1ses-419!2smx" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15070.003100773483!2d-99.00076843332705!3d19.21699515426017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1b3d499e89a7%3A0x10d5bd39bc57a44e!2sSan%20Antonio%20Tec%C3%B3mitl%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1665897351747!5m2!1ses-419!2smx" class="img-fluid" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                                                                         <br>
                                                                                         <h5 class="text-center text-white mt-4 mb-4">LUGAR DONDE
                                                                                                 PUEDEN VISITAR LA EMPRESA DE
@@ -363,13 +363,13 @@ session_start();
                                                 <br><br><br>
                                                 <h1 class="text-center mb-4 tipo-Letra-Titulo" data-aos="slide-up" data-aos-duration="4000">REGISTRO </h1>
 
-                                                <div class="card ColorQuejas rounded border-0">
+                                                <div class="card ColorQuejas rounded border-0" data-aos="zoom-in-up" data-aos-duration="4000">
                                                         <div class="card-body">
                                                                 <div class="row">
                                                                         <div class="col-sm-6">
                                                                                 <div class="card border-0 ColorQuejas">
                                                                                         <div class="card-body">
-                                                                                                <img src="./img/LogoDeEmpresa.png" alt="" srcset="">
+                                                                                                <img src="./img/LogoDeEmpresa.png" class="img-fluid" alt="" srcset="">
                                                                                         </div>
                                                                                 </div>
                                                                         </div>
@@ -377,7 +377,7 @@ session_start();
                                                                                 <div class="card border-0 ColorQuejas">
                                                                                         <div class="card-body">
                                                                                                 <div class="text-center">
-                                                                                                        <img src="./img/LogoDeEmpresa.png" class="TamañoLogoLoginUno mt-2 mb-2" alt="" srcset="">
+                                                                                                        <img src="./img/LogoDeEmpresa.png" class="img-fluid TamañoLogoLoginUno mt-2 mb-2" alt="" srcset="">
                                                                                                 </div>
                                                                                                 <h2 class="text-center tipo-letra">
                                                                                                         Moles Tradicionales Rios
@@ -453,7 +453,7 @@ session_start();
 
                 function mascaraObloqueo() {
                         $.blockUI({
-                                message: ' <img src="./img/image.png" width="300" height="300"> <br> Creador Fernando Lujan',
+                                message: ' <img src="./img/image.png" class="img-fluid" width="300" height="300"> <br> Creador Fernando Lujan',
 
                                 css: {
                                         border: 'none',
