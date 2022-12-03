@@ -66,7 +66,8 @@
                                                                                                 class="form-control"
                                                                                                 placeholder="Username"
                                                                                                 aria-label="Username"
-                                                                                                aria-describedby="basic-addon1">
+                                                                                                aria-describedby="basic-addon1"
+                                                                                                required="">
                                                                                         <br>
 
                                                                                         <h4 class="tipo-letra">
@@ -76,7 +77,8 @@
                                                                                                 class="form-control"
                                                                                                 placeholder="Username"
                                                                                                 aria-label="Username"
-                                                                                                aria-describedby="basic-addon1">
+                                                                                                aria-describedby="basic-addon1"
+                                                                                                required="">
                                                                                         <br>
                                                                                         <!--------->
                                                                                         <h4 class="tipo-letra">
@@ -86,7 +88,8 @@
                                                                                                 class="form-control"
                                                                                                 placeholder="Username"
                                                                                                 aria-label="Username"
-                                                                                                aria-describedby="basic-addon1">
+                                                                                                aria-describedby="basic-addon1"
+                                                                                                required="">
                                                                                         <br>
                                                                                         <h4 class="tipo-letra">
                                                                                                 Usuario</h4>
@@ -95,7 +98,8 @@
                                                                                                 class="form-control"
                                                                                                 placeholder="Username"
                                                                                                 aria-label="Username"
-                                                                                                aria-describedby="basic-addon1">
+                                                                                                aria-describedby="basic-addon1"
+                                                                                                required="">
                                                                                         <br>
                                                                                         <h4 class="tipo-letra">
                                                                                                 Contraseña</h4>
@@ -104,7 +108,8 @@
                                                                                                 class="form-control"
                                                                                                 placeholder="Username"
                                                                                                 aria-label="Username"
-                                                                                                aria-describedby="basic-addon1">
+                                                                                                aria-describedby="basic-addon1"
+                                                                                                required="">
                                                                                 </div>
                                                                         </div>
                                                                 </div>
@@ -119,7 +124,8 @@
                                                                                                 class="form-control"
                                                                                                 placeholder="Username"
                                                                                                 aria-label="Username"
-                                                                                                aria-describedby="basic-addon1">
+                                                                                                aria-describedby="basic-addon1"
+                                                                                                required="">
                                                                                         <br>
                                                                                         <!---------->
 
@@ -130,7 +136,8 @@
                                                                                                 class="form-control"
                                                                                                 placeholder="Username"
                                                                                                 aria-label="Username"
-                                                                                                aria-describedby="basic-addon1">
+                                                                                                aria-describedby="basic-addon1"
+                                                                                                required="">
                                                                                         <br>
                                                                                         <!---------->
 
@@ -141,7 +148,8 @@
                                                                                                 class="form-control"
                                                                                                 placeholder="Username"
                                                                                                 aria-label="Username"
-                                                                                                aria-describedby="basic-addon1">
+                                                                                                aria-describedby="basic-addon1"
+                                                                                                required="">
                                                                                         <br>
 
 

@@ -2,8 +2,8 @@
 
     class Conexion{
         private $servidor = "localhost";
-        private $usuario = "root";
-        private $password = "";
+        private $usuario = "admin";
+        private $password = "root";
         private $bd = "molesrios";
 
         public function conectar(){

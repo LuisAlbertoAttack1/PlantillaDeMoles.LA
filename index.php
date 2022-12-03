@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!doctype html>
 <html lang="en">
 
@@ -14,6 +17,8 @@
         <script src="js/all.js"></script>
         <script src="./js/mascaraDeCarga/jquery.blockUI.js"></script>
         <script src="./js/mascara.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.6.9/sweetalert2.min.css">
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
         <title>Principal</title>
 </head>
 
@@ -430,6 +435,9 @@
         </div>
         </div>
         </div>
+
+                                                                           
+
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
         <script src="js/controller_navbar.js"></script>
 <!------>
@@ -462,10 +470,19 @@
                 }
         </script>
 
-        <!------>
-
-
-
+        <!------>   
+      <?php
+      if (isset($_SESSION['sesion']) == 1) {
+                echo "<script>
+                Swal.fire({
+                icon: 'error',
+                title: 'Oops...!',
+                text: 'Usuario o contraseña son incorrectos.',  
+                })
+                </script>";
+                unset($_SESSION['sesion']);
+        }
+      ?>                    
 </body>
 
 </html>

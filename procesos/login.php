@@ -8,15 +8,14 @@ $Usuarios = new Usuarios();
 $usuario = $_POST['txt_usuario'];
 $password = sha1($_POST['txt_password']);
 
-$respuesta = $Usuarios->logear($usuario,$password);
 
+$respuesta = $Usuarios->logear($usuario,$password);
 if($respuesta){
+    $_SESSION['usuario'] = $usuario;
     header("location:../views/Views-vistaInicio.php");
 }else{
-    echo "<script>
-    alert('Los datos son incorrectos')
-</script>";
-header("location:../index.php");
+    $_SESSION['sesion'] = 1;
+    header("location:../index.php");
 }
 
 ?>

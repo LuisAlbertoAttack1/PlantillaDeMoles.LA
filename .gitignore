@@ -1,0 +1,2 @@
+#Ignora el archivo de conexion a la base de datos
+db/*.php
