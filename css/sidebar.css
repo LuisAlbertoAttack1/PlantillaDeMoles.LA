@@ -386,6 +386,14 @@ background-color: #edf6f9;
   background-size: cover;
   
 }
+.ImgFondoVistaHistoria{
+  /* Encontrar fondo A QUE QUITAR TODO DEL FONDO*/
+  background-image: url(../img/FondoColorCafe.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 .colorTransparenteCards{
   background:rgba(138,221,45,0);
 }
