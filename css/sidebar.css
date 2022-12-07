@@ -368,7 +368,7 @@ height: 7rem;
   background-size: cover;
 }
 .ColorQuejas{
-background-color: #edf6f9;
+  background-image: url(../img/FondoPersonal.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;

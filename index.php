@@ -300,7 +300,7 @@ session_start();
                                         <div class="row tipo-letra">
 
                                                 <div class="col">
-                                                        <div class="card border-0 ColorQuejas" data-aos="zoom-in-up" data-aos-duration="4000">
+                                                        <div class="card colorTransparenteCards border-0" data-aos="zoom-in-up" data-aos-duration="4000">
                                                                 <div class="card-body ">
 
                                                                         <div class="form-floating mb-3">
@@ -337,8 +337,12 @@ session_start();
                                                                                         totam quod commodi ut rem eveniet, illum
                                                                                         quo nemo ad, placeat ipsum quisquam
                                                                                         iste.</h5>
-                                                                                <a href="#" class="btn fondo-color-indefinido-center mt-4 mb-4 rounded-pill">Ingresar
-                                                                                        A Mas Informacion</a>
+                                                                                        <h5 class="text-white"> Lorem ipsum dolor, sit amet consectetur
+                                                                                        adipisicing elit. Inventore quidem hic
+                                                                                        tempore nam. Tempore asperiores adipisci
+                                                                                        totam quod commodi ut rem eveniet, illum
+                                                                                        quo nemo ad, placeat ipsum quisquam
+                                                                                        iste.</h5>
                                                                         </div>
                                                                 </div>
                                                         </div>
@@ -363,18 +367,18 @@ session_start();
                                                 <br><br><br>
                                                 <h1 class="text-center mb-4 tipo-Letra-Titulo" data-aos="slide-up" data-aos-duration="4000">REGISTRO </h1>
 
-                                                <div class="card ColorQuejas rounded border-0" data-aos="zoom-in-up" data-aos-duration="4000">
+                                                <div class="card colorTransparenteCards border-0" data-aos="zoom-in-up" data-aos-duration="4000">
                                                         <div class="card-body">
                                                                 <div class="row">
                                                                         <div class="col-sm-6">
-                                                                                <div class="card border-0 ColorQuejas">
+                                                                                <div class="card colorTransparenteCards border-0">
                                                                                         <div class="card-body">
                                                                                                 <img src="./img/LogoDeEmpresa.png" class="img-fluid" alt="" srcset="">
                                                                                         </div>
                                                                                 </div>
                                                                         </div>
                                                                         <div class="col-sm-6">
-                                                                                <div class="card border-0 ColorQuejas">
+                                                                                <div class="card colorTransparenteCards border-0">
                                                                                         <div class="card-body">
                                                                                                 <div class="text-center">
                                                                                                         <img src="./img/LogoDeEmpresa.png" class="img-fluid TamañoLogoLoginUno mt-2 mb-2" alt="" srcset="">
@@ -394,7 +398,7 @@ session_start();
 
                                                                                                 <div class="row">
                                                                                                         <div class="col-sm-6">
-                                                                                                                <div class="card text-center border-0 ColorQuejas">
+                                                                                                                <div class="card text-center colorTransparenteCards border-0">
                                                                                                                         <div class="card-body">
                                                                                                                                 <div class="d-grid gap-2 d-md-block">
                                                                                                                                         <button class="btn btn-primary">Iniciar Sesion</button>
@@ -406,7 +410,7 @@ session_start();
                                                                                                 </div>
 
                                                                                                 <div class="col-sm-6">
-                                                                                                        <div class="card text-center border-0 ColorQuejas">
+                                                                                                        <div class="card text-center colorTransparenteCards border-0">
                                                                                                                 <div class="card-body">
                                                                                                                         <div class="d-grid gap-2 d-md-block">
                                                                                                                                 <a href="./views/Views-vistaAñadirUsuario.php" class="btn btn-warning" type="button">Registrarse</a>

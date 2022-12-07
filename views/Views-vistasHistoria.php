@@ -17,7 +17,7 @@
         <title>Views-vistasHistoria.php!</title>
 </head>
 
-<body style="background-color:#000000;" class="ImgFondoVistaHistoria">
+<body class="ImgFondoVistaHistoria">
         <div class="container">
                 <div class="row">
                         <div class="col">
@@ -43,7 +43,8 @@
                                         <div class="col-sm-6">
                                                 <div class="card colorTransparenteCards rounded border-0" data-aos="fade-up" data-aos-duration="4000">
                                                         <div class="card-body">
-                                                        <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/Hwk1BjuNk-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                                        </div>
+                                                        <br><br><br>
+                                                        <iframe class="img-fluid rounded" width="560" height="315" src="https://www.youtube.com/embed/Hwk1BjuNk-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                                        </div>
                                                 </div>
                                         </div>
                                 </div>
