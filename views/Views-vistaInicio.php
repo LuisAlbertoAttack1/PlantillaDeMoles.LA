@@ -5,7 +5,11 @@ require_once "../db/Conexion.php";
 require_once "../clases/Usuarios.php";
 
 $Usuarios = new Usuarios();
-$datos = $Usuarios->consultar_pedido($_SESSION['cliente']);
+$id_cliente = $_SESSION['cliente'];
+$datos = $Usuarios->consultar_pedido($id_cliente);
+
+$_SESSION['pedido'] = $id_cliente;
+
 ?>
 <!doctype html>
 <html lang="en">
