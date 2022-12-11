@@ -5,8 +5,9 @@ require_once "../db/Conexion.php";
 require_once "../clases/Usuarios.php";
 
 $Usuarios = new Usuarios();
+$usuario = $_SESSION['usuario'];
 $id_cliente = $_SESSION['cliente'];
-$datos = $Usuarios->consultar_pedido($id_cliente);
+$datos = $Usuarios->consultar_pedido($id_cliente,$usuario);
 
 $_SESSION['pedido'] = $id_cliente;
 
@@ -39,21 +40,28 @@ $_SESSION['pedido'] = $id_cliente;
             <div class="col">
                 <table id="example" class="table table-striped table-bordered nowrap mt-4" style="width:100%">
                     <thead>
+                        <th hidden>Id pedido</th>
+                        <th>Descripcion_pedido</th>
+                        <th>Fecha solicitada</th>
                         <th hidden>Id cliente</th>
                         <th>Nombre</th>
-                        <th>apellido paterno</th>
-                        <th>apellido materno</th>
-                        <th>direccion</th>
+                        <th>Apellido paterno</th>
+                        <th>Direccion</th>
+                        <th>Codigo postal</th>
+
                         
                     </thead>
                     <tbody>
                         <?php foreach ($datos as $item) : ?>
                             <tr>
+                                <td hidden><?php echo $item['id_pedido']?></td>
+                                <td><?php echo $item['descripcion_pedido']?></td>
+                                <td><?php echo $item['fecha_entrega_pedido']?></td>
                                 <td hidden><?php echo $item['id_cliente']; ?></td>
                                 <td><?php echo $item['nombre_cliente']; ?></td>
                                 <td><?php echo $item['apellido_paterno_cliente']; ?></td>
-                                <td><?php echo $item['apellido_materno_cliente']; ?></td>
                                 <td><?php echo $item['direccion_cliente']; ?></td>
+                                <td><?php echo $item['cp_cliente']; ?></td>
                             </tr>
                         <?php endforeach; ?>
                     </tbody>

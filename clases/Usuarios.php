@@ -53,11 +53,13 @@ class Usuarios{
     return $respuesta;
 
    }
-   public function consultar_pedido($fk_id_cliente){
+   public function consultar_pedido($fk_id_cliente,$usuario){
     $c = new Conexion();
     $conexion = $c->conectar();
-
-    $sql = "SELECT * FROM t_clientes WHERE id_cliente = '$fk_id_cliente[0]'";
+    $ssql = "SELECT t_usuarios.fk_id_cliente FROM t_usuarios WHERE usuario = '$usuario';";
+    $resultado = mysqli_query($conexion,$ssql); 
+    $id_cliente = mysqli_fetch_array($resultado);
+    $sql = "SELECT t_pedidos.id_pedido,t_pedidos.descripcion_pedido,t_pedidos.fecha_entrega_pedido,t_pedidos.fk_id_cliente,t_clientes.id_cliente,t_clientes.nombre_cliente,t_clientes.apellido_paterno_cliente,t_clientes.direccion_cliente, t_clientes.cp_cliente  FROM t_pedidos INNER JOIN t_clientes WHERE t_clientes.id_cliente = '$fk_id_cliente[0]' AND t_pedidos.fk_id_cliente = '$id_cliente[0]'";
 
             $respuesta = mysqli_query($conexion, $sql);
 
