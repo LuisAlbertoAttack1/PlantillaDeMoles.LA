@@ -1,4 +1,5 @@
 <?php
+    session_start();
     require_once "../clases/Pedidos.php";
     require_once "../db/Conexion.php";
     $desc_pedido = $_POST['txt_desc'];
@@ -9,16 +10,15 @@
     
     $Pedidos = new Pedido();
 
-    //$respuesta = $Pedidos->guardar_pedido($datos);
-    $respuesta = true;
+    $respuesta = $Pedidos->guardar_pedido($datos);
+    
     if($respuesta){
-        $_SESSION['guardarPedido'] = 1;
+        $_SESSION['guardarPedidog'] = 1;
         
     }else{
-        $_SESSION['guardarPedido'] = 2;
+        $_SESSION['guardarPedidoe'] = 1;
         
     }
-    print_r($_SESSION['guardarPedido']);
     header("location:../views/Views-vistaInicio.php");
     
 

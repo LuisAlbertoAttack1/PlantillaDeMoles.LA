@@ -27,6 +27,7 @@ $_SESSION['pedido'] = $id_cliente;
     <link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.2.2/css/fixedHeader.bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.bootstrap.min.css">
+    <link rel="stylesheet" href="../node_modules/sweetalert2/dist/sweetalert2.min.css">
     <title>Dashboard</title>
   </head>
   <body>
@@ -68,17 +69,44 @@ $_SESSION['pedido'] = $id_cliente;
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="../js/jquery.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    
     <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap.min.js"></script>
     <script src="https://cdn.datatables.net/fixedheader/3.2.2/js/dataTables.fixedHeader.min.js"></script>
     <script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
     <script src="https://cdn.datatables.net/responsive/2.2.9/js/responsive.bootstrap.min.js"></script>
+    
     <script src="../js/app.js"></script>
-
+<script src="../node_modules/sweetalert2/dist/sweetalert2.min.js"></script>
     <!-- Option 2: Separate Popper and Bootstrap JS -->
     <!--
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
     -->
+    <?php 
+if (isset($_SESSION['guardarPedidog']) == 1) {
+    echo "<script>
+            Swal.fire({
+              icon: 'success',
+              title: 'God job!',
+              text: 'Operación exitosa, pedido guardado.',  
+              })
+             
+    </script>"; 
+    unset($_SESSION['guardarPedidog']);
+}else{
+}
+if(isset($_SESSION['guardarPedidoe']) == 1){
+    echo "<script>
+    Swal.fire({
+    icon: 'error',
+    title: 'Oops...!',
+    text: 'Pedido rechazado.',  
+    })
+    </script>";
+    unset($_SESSION['guardarPedidoe']);
+}else{
+}
+?>
   </body>
 </html>
