@@ -16,7 +16,7 @@
             <a class="nav-link active" aria-current="page" href="../views/Views-vistaInicio.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Realizar pedido</a>
+            <a class="nav-link active" aria-current="page" href="../views/View-vistaPedidos.php">Realizar pedido</a>
           </li>
           <li class="nav-item">
             <a class="nav-link active" href="../procesos/cerrar_sesion.php">Cerrar Sesion</a>
