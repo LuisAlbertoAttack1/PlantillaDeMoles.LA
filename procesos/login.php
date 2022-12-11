@@ -10,8 +10,9 @@ $password = sha1($_POST['txt_password']);
 
 
 $respuesta = $Usuarios->logear($usuario,$password);
-if($respuesta){
+if($respuesta[0]){
     $_SESSION['usuario'] = $usuario;
+    $_SESSION['cliente'] = $respuesta[1];
     header("location:../views/Views-vistaInicio.php");
 }else{
     $_SESSION['sesion'] = 1;

@@ -17,8 +17,7 @@ session_start();
         <script src="js/all.js"></script>
         <script src="./js/mascaraDeCarga/jquery.blockUI.js"></script>
         <script src="./js/mascara.js"></script>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.6.9/sweetalert2.min.css">
-        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+        <link rel="stylesheet" href="./node_modules/sweetalert2/dist/sweetalert2.min.css">
         <title>Principal</title>
 </head>
 
@@ -439,6 +438,7 @@ session_start();
                                                                            
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+        <script src="./node_modules/sweetalert2/dist/sweetalert2.min.js"></script>
         <script src="js/controller_navbar.js"></script>
 <!------>
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>

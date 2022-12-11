@@ -13,9 +13,9 @@ $telefono = $_POST['txt_telefono'];
 $usuario = $_POST['txt_usuario'];
 $password = sha1($_POST['txt_password']);
 
+
 /**Guardar todos los datos en su respectivo arreglo*/
-$datos_cliente = array($nombre, $apellido_paterno,$apellido_materno,$direccion,$codigo_postal,$telefono);
-$datos_usuario = array($usuario, $password);
+$datos_cliente = array($nombre, $apellido_paterno,$apellido_materno,$direccion,$codigo_postal,$telefono,$usuario,$password);
 
 
 /**Instancia de obj para acceder a la clase Usuarios */
@@ -24,8 +24,8 @@ $obj = new Usuarios();
 $resp = $obj->insertar_info_usuario($datos_cliente);
 
         //Verifica que haga el segundo commit (t_usuarios) y regresa a la pagina principal     
-        if($obj->insertar_usuario($datos_usuario,$resp)){
+        if($resp){
             header('location:../index.php');
     
-}
+        }
 ?>
